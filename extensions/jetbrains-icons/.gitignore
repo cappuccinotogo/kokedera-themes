@@ -1,0 +1,9 @@
+.gradle/
+.intellijPlatform/
+build/
+.idea/
+*.iml
+out/
+
+# Generated from ../../icons by tools/icons.mjs during the Gradle build
+src/main/resources/icons/

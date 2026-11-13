@@ -1,0 +1,69 @@
+{
+  "manifest_version": 2,
+  "name": "Kokedera Rain",
+  "version": "1.0.0",
+  "description": "Kokedera Rain: a dark moss temple palette for Firefox.",
+  "author": "Florian Mühlhans",
+  "homepage_url": "https://kokedera.style",
+  "icons": {
+    "512": "icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "kokedera-rain@cappuccinotogo",
+      "strict_min_version": "128.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#192625",
+      "frame_inactive": "#121e1d",
+      "tab_background_text": "#b8d8c8",
+      "tab_selected": "#111a19",
+      "tab_text": "#b8d8c8",
+      "tab_line": "#6cc4b2",
+      "tab_loading": "#6cc4b2",
+      "tab_background_separator": "#2a3d39",
+      "toolbar": "#111a19",
+      "toolbar_text": "#b8d8c8",
+      "bookmark_text": "#b8d8c8",
+      "toolbar_field": "#192625",
+      "toolbar_field_text": "#b8d8c8",
+      "toolbar_field_border": "#354a45",
+      "toolbar_field_border_focus": "#4ca6a6",
+      "toolbar_field_focus": "#141e1d",
+      "toolbar_field_text_focus": "#b8d8c8",
+      "toolbar_field_highlight": "#304544",
+      "toolbar_field_highlight_text": "#b8d8c8",
+      "toolbar_top_separator": "#2a3d39",
+      "toolbar_bottom_separator": "#2a3d39",
+      "toolbar_vertical_separator": "#354a45",
+      "button_background_hover": "#263d39",
+      "button_background_active": "#304544",
+      "icons": "#b8d8c8",
+      "icons_attention": "#6cc4b2",
+      "popup": "#141e1d",
+      "popup_text": "#b8d8c8",
+      "popup_border": "#354a45",
+      "popup_highlight": "#304544",
+      "popup_highlight_text": "#b8d8c8",
+      "sidebar": "#192625",
+      "sidebar_text": "#b8d8c8",
+      "sidebar_border": "#2a3d39",
+      "sidebar_highlight": "#304544",
+      "sidebar_highlight_text": "#b8d8c8",
+      "ntp_background": "#111a19",
+      "ntp_card_background": "#192625",
+      "ntp_text": "#b8d8c8"
+    },
+    "properties": {
+      "color_scheme": "dark",
+      "content_color_scheme": "dark"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+# Kokedera Dusk — generated from the shared Kokedera palette
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jesseduffield/lazygit/master/schema/config.json
+gui:
+  theme:
+    activeBorderColor: ["#4ca64c","bold"]
+    inactiveBorderColor: ["#3a4a35"]
+    searchingActiveBorderColor: ["#d4c88e","bold"]
+    optionsTextColor: ["#5a9e8f"]
+    selectedLineBgColor: ["#314530"]
+    inactiveViewSelectedLineBgColor: ["#1a2619"]
+    cherryPickedCommitFgColor: ["#9a7abf"]
+    cherryPickedCommitBgColor: ["#2a3d26"]
+    markedBaseCommitFgColor: ["#d4c88e"]
+    markedBaseCommitBgColor: ["#2a3d26"]
+    unstagedChangesColor: ["#c45a5a"]
+    defaultFgColor: ["#c8d8b8"]

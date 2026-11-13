@@ -1,0 +1,168 @@
+{
+  "extends": "Adaptive.sublime-theme",
+  "rules": [
+    {
+      "class": "window",
+      "layer0.tint": "#111a19",
+      "layer0.opacity": 1
+    },
+    {
+      "class": "sidebar_container",
+      "layer0.tint": "#192625",
+      "layer0.opacity": 1
+    },
+    {
+      "class": "sidebar_tree",
+      "layer0.tint": "#192625",
+      "layer0.opacity": 1
+    },
+    {
+      "class": "sidebar_heading",
+      "fg": "#6cc4b2"
+    },
+    {
+      "class": "sidebar_label",
+      "fg": "#87aa9d"
+    },
+    {
+      "class": "sidebar_label",
+      "parents": [
+        {
+          "class": "tree_row",
+          "attributes": [
+            "selected"
+          ]
+        }
+      ],
+      "fg": "#b8d8c8"
+    },
+    {
+      "class": "tree_row",
+      "layer0.tint": "#304544",
+      "layer0.opacity": 1,
+      "attributes": [
+        "selected"
+      ]
+    },
+    {
+      "class": "tabset_control",
+      "layer0.tint": "#192625",
+      "layer0.opacity": 1
+    },
+    {
+      "class": "tab_control",
+      "layer0.tint": "#192625",
+      "layer0.opacity": 1
+    },
+    {
+      "class": "tab_control",
+      "layer0.tint": "#111a19",
+      "layer0.opacity": 1,
+      "attributes": [
+        "selected"
+      ]
+    },
+    {
+      "class": "tab_label",
+      "fg": "#87aa9d"
+    },
+    {
+      "class": "tab_label",
+      "parents": [
+        {
+          "class": "tab_control",
+          "attributes": [
+            "selected"
+          ]
+        }
+      ],
+      "fg": "#b8d8c8"
+    },
+    {
+      "class": "status_bar",
+      "layer0.tint": "#192625",
+      "layer0.opacity": 1
+    },
+    {
+      "class": "label_control",
+      "parents": [
+        {
+          "class": "status_bar"
+        }
+      ],
+      "fg": "#87aa9d"
+    },
+    {
+      "class": "panel_control",
+      "layer0.tint": "#141e1d",
+      "layer0.opacity": 1
+    },
+    {
+      "class": "overlay_control",
+      "layer0.tint": "#141e1d",
+      "layer0.opacity": 1
+    },
+    {
+      "class": "quick_panel",
+      "layer0.tint": "#141e1d",
+      "layer0.opacity": 1
+    },
+    {
+      "class": "quick_panel_row",
+      "layer0.tint": "#304544",
+      "layer0.opacity": 1,
+      "attributes": [
+        "selected"
+      ]
+    },
+    {
+      "class": "mini_quick_panel_row",
+      "layer0.tint": "#304544",
+      "layer0.opacity": 1,
+      "attributes": [
+        "selected"
+      ]
+    },
+    {
+      "class": "quick_panel_label",
+      "fg": "#b8d8c8",
+      "match_fg": "#6cc4b2",
+      "selected_fg": "#b8d8c8",
+      "selected_match_fg": "#6cc4b2"
+    },
+    {
+      "class": "quick_panel_path_label",
+      "fg": "#87aa9d",
+      "match_fg": "#6cc4b2",
+      "selected_fg": "#87aa9d",
+      "selected_match_fg": "#6cc4b2"
+    },
+    {
+      "class": "scroll_bar",
+      "layer0.tint": "#192625",
+      "layer0.opacity": 1
+    },
+    {
+      "class": "puck_control",
+      "layer0.tint": "#354a45",
+      "layer0.opacity": 1
+    },
+    {
+      "class": "auto_complete",
+      "layer0.tint": "#141e1d",
+      "layer0.opacity": 1
+    },
+    {
+      "class": "auto_complete_label",
+      "fg": "#b8d8c8",
+      "match_fg": "#6cc4b2",
+      "selected_fg": "#b8d8c8",
+      "selected_match_fg": "#6cc4b2"
+    },
+    {
+      "class": "input_area",
+      "layer0.tint": "#111a19",
+      "layer0.opacity": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+# Kokedera Winter — generated from the shared Kokedera palette
+"$schema" = "https://starship.rs/config-schema.json"
+palette = "kokedera_winter"
+format = "$directory$git_branch$git_status$cmd_duration$line_break$character"
+
+[palettes.kokedera_winter]
+moss = "#25708f"
+fern = "#2f7846"
+lantern = "#6b5c2a"
+stone = "#536152"
+error = "#a84848"
+stream = "#357d70"
+special = "#6b5a9a"
+
+[directory]
+style = "bold moss"
+read_only_style = "error"
+
+[git_branch]
+style = "fern"
+symbol = "git "
+
+[git_status]
+style = "special"
+
+[cmd_duration]
+style = "lantern"
+
+[character]
+success_symbol = "[>](bold moss)"
+error_symbol = "[>](bold error)"
+vimcmd_symbol = "[<](bold stream)"

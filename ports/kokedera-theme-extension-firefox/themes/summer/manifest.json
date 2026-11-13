@@ -1,0 +1,69 @@
+{
+  "manifest_version": 2,
+  "name": "Kokedera Summer",
+  "version": "1.0.0",
+  "description": "Kokedera Summer: a dark moss temple palette for Firefox.",
+  "author": "Florian Mühlhans",
+  "homepage_url": "https://kokedera.style",
+  "icons": {
+    "512": "icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "kokedera-summer@cappuccinotogo",
+      "strict_min_version": "128.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#112510",
+      "frame_inactive": "#0c1e0b",
+      "tab_background_text": "#d2e7bd",
+      "tab_selected": "#0c1a0b",
+      "tab_text": "#d2e7bd",
+      "tab_line": "#56d165",
+      "tab_loading": "#56d165",
+      "tab_background_separator": "#223b1c",
+      "toolbar": "#0c1a0b",
+      "toolbar_text": "#d2e7bd",
+      "bookmark_text": "#d2e7bd",
+      "toolbar_field": "#112510",
+      "toolbar_field_text": "#d2e7bd",
+      "toolbar_field_border": "#2c4725",
+      "toolbar_field_border_focus": "#2ec75a",
+      "toolbar_field_focus": "#0e1d0d",
+      "toolbar_field_text_focus": "#d2e7bd",
+      "toolbar_field_highlight": "#214321",
+      "toolbar_field_highlight_text": "#d2e7bd",
+      "toolbar_top_separator": "#223b1c",
+      "toolbar_bottom_separator": "#223b1c",
+      "toolbar_vertical_separator": "#2c4725",
+      "button_background_hover": "#1d3d18",
+      "button_background_active": "#214321",
+      "icons": "#d2e7bd",
+      "icons_attention": "#56d165",
+      "popup": "#0e1d0d",
+      "popup_text": "#d2e7bd",
+      "popup_border": "#2c4725",
+      "popup_highlight": "#214321",
+      "popup_highlight_text": "#d2e7bd",
+      "sidebar": "#112510",
+      "sidebar_text": "#d2e7bd",
+      "sidebar_border": "#223b1c",
+      "sidebar_highlight": "#214321",
+      "sidebar_highlight_text": "#d2e7bd",
+      "ntp_background": "#0c1a0b",
+      "ntp_card_background": "#112510",
+      "ntp_text": "#d2e7bd"
+    },
+    "properties": {
+      "color_scheme": "dark",
+      "content_color_scheme": "dark"
+    }
+  }
+}

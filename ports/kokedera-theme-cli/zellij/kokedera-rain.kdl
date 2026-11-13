@@ -1,0 +1,129 @@
+// Kokedera Rain
+themes {
+    kokedera-rain {
+        text_unselected {
+            base 184 216 200
+            background 17 26 25
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        text_selected {
+            base 184 216 200
+            background 48 69 68
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        ribbon_selected {
+            base 184 216 200
+            background 48 69 68
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        ribbon_unselected {
+            base 184 216 200
+            background 17 26 25
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        table_title {
+            base 184 216 200
+            background 17 26 25
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        table_cell_selected {
+            base 184 216 200
+            background 48 69 68
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        table_cell_unselected {
+            base 184 216 200
+            background 17 26 25
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        list_selected {
+            base 184 216 200
+            background 48 69 68
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        list_unselected {
+            base 184 216 200
+            background 17 26 25
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        frame_selected {
+            base 108 196 178
+            background 48 69 68
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        frame_unselected {
+            base 53 74 69
+            background 17 26 25
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        frame_highlight {
+            base 212 200 142
+            background 17 26 25
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        exit_code_success {
+            base 108 196 178
+            background 17 26 25
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        exit_code_error {
+            base 196 90 90
+            background 17 26 25
+            emphasis_0 212 200 142
+            emphasis_1 90 139 158
+            emphasis_2 108 196 178
+            emphasis_3 154 122 191
+        }
+        multiplayer_user_colors {
+            player_1 108 196 178
+            player_2 212 200 142
+            player_3 90 139 158
+            player_4 154 122 191
+            player_5 196 90 90
+            player_6 111 191 159
+            player_7 61 132 173
+            player_8 196 154 92
+            player_9 140 190 167
+            player_10 191 162 67
+        }
+    }
+}

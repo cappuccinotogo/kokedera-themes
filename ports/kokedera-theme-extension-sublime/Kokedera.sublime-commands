@@ -1,0 +1,65 @@
+[
+  {
+    "caption": "Kokedera: Dusk",
+    "command": "kokedera_select",
+    "args": {
+      "variant": "Dusk"
+    }
+  },
+  {
+    "caption": "Kokedera: Morning",
+    "command": "kokedera_select",
+    "args": {
+      "variant": "Morning"
+    }
+  },
+  {
+    "caption": "Kokedera: Night",
+    "command": "kokedera_select",
+    "args": {
+      "variant": "Night"
+    }
+  },
+  {
+    "caption": "Kokedera: Spring",
+    "command": "kokedera_select",
+    "args": {
+      "variant": "Spring"
+    }
+  },
+  {
+    "caption": "Kokedera: Summer",
+    "command": "kokedera_select",
+    "args": {
+      "variant": "Summer"
+    }
+  },
+  {
+    "caption": "Kokedera: Autumn",
+    "command": "kokedera_select",
+    "args": {
+      "variant": "Autumn"
+    }
+  },
+  {
+    "caption": "Kokedera: Winter",
+    "command": "kokedera_select",
+    "args": {
+      "variant": "Winter"
+    }
+  },
+  {
+    "caption": "Kokedera: Rain",
+    "command": "kokedera_select",
+    "args": {
+      "variant": "Rain"
+    }
+  },
+  {
+    "caption": "Kokedera: Mist",
+    "command": "kokedera_select",
+    "args": {
+      "variant": "Mist"
+    }
+  }
+]

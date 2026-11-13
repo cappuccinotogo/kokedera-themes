@@ -1,0 +1,54 @@
+{
+  "name": "@kokedera/jupyterlab-theme",
+  "version": "1.0.0",
+  "description": "Nine Kokedera moss temple themes for JupyterLab 4.",
+  "license": "MIT",
+  "author": "Florian Mühlhans",
+  "homepage": "https://kokedera.style",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cappuccinotogo/kokedera-themes.git",
+    "directory": "ports/kokedera-theme-extension-jupyterlab"
+  },
+  "keywords": [
+    "jupyter",
+    "jupyterlab",
+    "jupyterlab-extension",
+    "theme",
+    "kokedera"
+  ],
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*",
+    "style/**/*",
+    "src/**/*"
+  ],
+  "scripts": {
+    "build:lib": "tsc",
+    "build:labextension": "jupyter-builder build .",
+    "build": "npm run build:lib && npm run build:labextension",
+    "build:prod": "npm run build",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "@jupyterlab/application": "^4.0.0",
+    "@jupyterlab/apputils": "^4.0.0"
+  },
+  "devDependencies": {
+    "@jupyter/builder": "^1.2.0",
+    "typescript": "~5.9.3",
+    "@types/react": "^18.0.26"
+  },
+  "sideEffects": [
+    "style/*.css"
+  ],
+  "jupyterlab": {
+    "extension": true,
+    "themePath": "style/index.css",
+    "outputDir": "kokedera_jupyterlab/labextension"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

@@ -1,0 +1,12 @@
+node_modules/
+lib/
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+kokedera_jupyterlab/labextension/
+.DS_Store
+Thumbs.db

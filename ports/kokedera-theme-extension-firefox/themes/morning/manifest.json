@@ -1,0 +1,69 @@
+{
+  "manifest_version": 2,
+  "name": "Kokedera Morning",
+  "version": "1.0.0",
+  "description": "Kokedera Morning: a light moss temple palette for Firefox.",
+  "author": "Florian Mühlhans",
+  "homepage_url": "https://kokedera.style",
+  "icons": {
+    "512": "icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "kokedera-morning@cappuccinotogo",
+      "strict_min_version": "128.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#ece9d8",
+      "frame_inactive": "#efecdf",
+      "tab_background_text": "#333f2c",
+      "tab_selected": "#f4f2e6",
+      "tab_text": "#333f2c",
+      "tab_line": "#3b8a3c",
+      "tab_loading": "#3b8a3c",
+      "tab_background_separator": "#dedbc9",
+      "toolbar": "#f4f2e6",
+      "toolbar_text": "#333f2c",
+      "bookmark_text": "#333f2c",
+      "toolbar_field": "#ece9d8",
+      "toolbar_field_text": "#333f2c",
+      "toolbar_field_border": "#d5d2c0",
+      "toolbar_field_border_focus": "#2e7d32",
+      "toolbar_field_focus": "#edeadb",
+      "toolbar_field_text_focus": "#333f2c",
+      "toolbar_field_highlight": "#d6d3bd",
+      "toolbar_field_highlight_text": "#333f2c",
+      "toolbar_top_separator": "#dedbc9",
+      "toolbar_bottom_separator": "#dedbc9",
+      "toolbar_vertical_separator": "#d5d2c0",
+      "button_background_hover": "#e0ddc8",
+      "button_background_active": "#d6d3bd",
+      "icons": "#333f2c",
+      "icons_attention": "#333f2c",
+      "popup": "#edeadb",
+      "popup_text": "#333f2c",
+      "popup_border": "#d5d2c0",
+      "popup_highlight": "#d6d3bd",
+      "popup_highlight_text": "#333f2c",
+      "sidebar": "#ece9d8",
+      "sidebar_text": "#333f2c",
+      "sidebar_border": "#dedbc9",
+      "sidebar_highlight": "#d6d3bd",
+      "sidebar_highlight_text": "#333f2c",
+      "ntp_background": "#f4f2e6",
+      "ntp_card_background": "#ece9d8",
+      "ntp_text": "#333f2c"
+    },
+    "properties": {
+      "color_scheme": "light",
+      "content_color_scheme": "light"
+    }
+  }
+}

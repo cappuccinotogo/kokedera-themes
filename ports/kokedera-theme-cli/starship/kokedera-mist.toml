@@ -1,0 +1,32 @@
+# Kokedera Mist — generated from the shared Kokedera palette
+"$schema" = "https://starship.rs/config-schema.json"
+palette = "kokedera_mist"
+format = "$directory$git_branch$git_status$cmd_duration$line_break$character"
+
+[palettes.kokedera_mist]
+moss = "#6ba263"
+fern = "#85ab6f"
+lantern = "#b5a97e"
+stone = "#909c89"
+error = "#a87373"
+stream = "#7b98a8"
+special = "#9787ab"
+
+[directory]
+style = "bold moss"
+read_only_style = "error"
+
+[git_branch]
+style = "fern"
+symbol = "git "
+
+[git_status]
+style = "special"
+
+[cmd_duration]
+style = "lantern"
+
+[character]
+success_symbol = "[>](bold moss)"
+error_symbol = "[>](bold error)"
+vimcmd_symbol = "[<](bold stream)"

@@ -1,0 +1,38 @@
+[build-system]
+requires = ["hatchling>=1.20", "hatch-jupyter-builder>=0.9", "jupyter-builder>=1.2,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "kokedera-jupyterlab"
+version = "1.0.0"
+description = "Nine Kokedera moss temple themes for JupyterLab 4"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [{ name = "Florian Mühlhans" }]
+dependencies = ["jupyterlab>=4.0,<5"]
+classifiers = ["Framework :: Jupyter :: JupyterLab :: 4", "Framework :: Jupyter :: JupyterLab :: Extensions :: Prebuilt", "Framework :: Jupyter :: JupyterLab :: Extensions :: Themes"]
+
+[project.urls]
+Homepage = "https://kokedera.style"
+
+[tool.hatch.build.targets.wheel]
+packages = ["kokedera_jupyterlab"]
+
+[tool.hatch.build.targets.wheel.shared-data]
+"kokedera_jupyterlab/labextension" = "share/jupyter/labextensions/@kokedera/jupyterlab-theme"
+"install.json" = "share/jupyter/labextensions/@kokedera/jupyterlab-theme/install.json"
+
+[tool.hatch.build.targets.sdist]
+include = ["kokedera_jupyterlab", "src", "style", "package.json", "package-lock.json", "tsconfig.json", "pyproject.toml", "install.json", "README.md", "LICENSE"]
+artifacts = ["kokedera_jupyterlab/labextension"]
+
+[tool.hatch.build.hooks.jupyter-builder]
+dependencies = ["hatch-jupyter-builder>=0.9"]
+build-function = "hatch_jupyter_builder.npm_builder"
+ensured-targets = ["kokedera_jupyterlab/labextension/package.json", "kokedera_jupyterlab/labextension/themes/@kokedera/jupyterlab-theme/index.css"]
+skip-if-exists = ["kokedera_jupyterlab/labextension/package.json"]
+
+[tool.hatch.build.hooks.jupyter-builder.build-kwargs]
+build_cmd = "build:prod"
+npm = ["npm"]

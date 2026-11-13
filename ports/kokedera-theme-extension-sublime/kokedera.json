@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "repository": "cappuccinotogo/kokedera-themes",
+  "path": "ports/kokedera-theme-extension-sublime",
+  "generator": "https://github.com/cappuccinotogo/kokedera-themes",
+  "generatorHash": "40c1af138a85d868841fe4f5fb6af4416667fe70a66abce5529f6eb247201228",
+  "paletteHash": "aaf788a9d397c9b4b5c60d540834143a7e97d299b28ce8adddf88f90ddce6d8b",
+  "variants": [
+    {
+      "id": "dusk",
+      "name": "Kokedera Dusk",
+      "scheme": "dark"
+    },
+    {
+      "id": "morning",
+      "name": "Kokedera Morning",
+      "scheme": "light"
+    },
+    {
+      "id": "night",
+      "name": "Kokedera Night",
+      "scheme": "dark"
+    },
+    {
+      "id": "spring",
+      "name": "Kokedera Spring",
+      "scheme": "dark"
+    },
+    {
+      "id": "summer",
+      "name": "Kokedera Summer",
+      "scheme": "dark"
+    },
+    {
+      "id": "autumn",
+      "name": "Kokedera Autumn",
+      "scheme": "dark"
+    },
+    {
+      "id": "winter",
+      "name": "Kokedera Winter",
+      "scheme": "light"
+    },
+    {
+      "id": "rain",
+      "name": "Kokedera Rain",
+      "scheme": "dark"
+    },
+    {
+      "id": "mist",
+      "name": "Kokedera Mist",
+      "scheme": "dark"
+    }
+  ],
+  "files": {
+    ".gitattributes": "84b7ac022a60b33354a2682cef1c45b38cda73c82663ebf1f5a36244181f41f9",
+    ".github/workflows/validate.yml": "6fcdb75de637071c43b111b2413eea3731f02d3183927163699f4e7767e338e2",
+    ".gitignore": "fdbd55a593609bb23a4fb57f77672a966635e6698774fadb28a494c056763be1",
+    "Kokedera Autumn.sublime-color-scheme": "26f53216df3e8f585ce9917878b2198e2952187f9a7be930f112b05055f3d095",
+    "Kokedera Autumn.sublime-theme": "725958e6b82c2ebb7ad3c6fa1599c60a32d126f826f0abb09b130d00bf4e89e1",
+    "Kokedera Dusk.sublime-color-scheme": "defeaa8aac27c7734726ed497aa1fdb845c8492759250397ab222dedd1bd7bcd",
+    "Kokedera Dusk.sublime-theme": "5d6df0fd68a42fb8a633fa95521c262ce5850290778c7a8e8c0efadae288e166",
+    "Kokedera Mist.sublime-color-scheme": "c1a7734b73c6736e11596f3662fc8b46ade32e9ef1aae3eda46e2a540776b6bf",
+    "Kokedera Mist.sublime-theme": "90b35575b4cb7fa99172d964b50280bc346c64ff135a6066bfaede3e322b65c6",
+    "Kokedera Morning.sublime-color-scheme": "3a2713737ffa839a1d86167f6d8dd358ff961421789896e3187e6bd3f4434c63",
+    "Kokedera Morning.sublime-theme": "f69a7223d375d6218b77f43441b29864213ba6adc5d49ccdecc87e110f6cbd47",
+    "Kokedera Night.sublime-color-scheme": "88dd7e82ab74b0ee1053d0c837fcdb99fddc6038c92117fcaed292b2afbe39c0",
+    "Kokedera Night.sublime-theme": "50a90f4f3ed955be6984c7bb75cd223b9c2416e9468fbd053a0c934bd24cae6b",
+    "Kokedera Rain.sublime-color-scheme": "482e539cda558379472ba4bcaa31d28c4e5817d7c8ab4c32bfbdbdf735078981",
+    "Kokedera Rain.sublime-theme": "a44248afdcc358a3d3ffffe88dd3d241973d9129564d9d632a71bb789b5d75e7",
+    "Kokedera Spring.sublime-color-scheme": "bb5b9cbe91bfdeec53b3d0dfc067124a68efa85e73c9f5b4f5bc0ae0680f1cbe",
+    "Kokedera Spring.sublime-theme": "68def4e78988351c740ffe04888a7594bee7144b1badbb19cc42225b8a8ca56a",
+    "Kokedera Summer.sublime-color-scheme": "e9d74cd459a58a1c35c3094ba6668678433f4a4e0a8ff8431fa11a7fe3fcb5a6",
+    "Kokedera Summer.sublime-theme": "7d3961d81420a4b37f1fa0754dabf792440f0bb546b43ddbdb8dcbc08a773444",
+    "Kokedera Winter.sublime-color-scheme": "4995a4dee59c9de4a2cf5c472f42bd30efeb4383e6ea471526ca713ad95a49e9",
+    "Kokedera Winter.sublime-theme": "9168010f1dc405a0a3db32be72fee8b6f68387bf11e735174522c96c8fce1521",
+    "Kokedera.sublime-commands": "9cd3f1b2afb92eceb883896232c55f9c43d1262dfb536491187f3dc8adc2ba61",
+    "LICENSE": "6c6c6451b00ce86b2cc473120eded4aa07992aea873700f96397b4d4c9b7dc04",
+    "README.md": "3004636939e4367007fa9f86bbdb7a1d1260e8cda8453c612a6cf3c38c5b07a5",
+    "assets/golem.svg": "7391b078b497a49677da33dabf5ff20dc5eea735a50f88aa5bbd18db6aaf8e37",
+    "assets/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "assets/palettes.svg": "119c42b7edb1be462eea4493d2c9c1d6895f10f71b677a1b739cea945de636b9",
+    "kokedera.py": "d453ef8417c77ad20f107ebb3db0a6d0b632125f8f01c5faf87f849f023efe5a",
+    "scripts/verify.py": "ae7957672341d412d2c1c31fb5d2c0299b85148ec5d9747c2cc5c9176e6ad2cc"
+  }
+}

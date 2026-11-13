@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "textHashLineEndings": "LF",
+  "website": {
+    "repository": "cappuccinotogo/kokedera",
+    "revision": "484cf9642fa80cfb9843c9052169a63763acaaa0",
+    "path": "apps/web/src/lib/themes.ts",
+    "sha256": "722ecc558d266c3f8998a0e35371c85d9a4fa57d7092ad32a7084d90a14fd296"
+  },
+  "vscode": {
+    "repository": "cappuccinotogo/kokedera-themes",
+    "path": "extensions/vscode-theme",
+    "revision": "4c17ee11fc22fd8c39084ae7e138a37bae4073b0",
+    "files": {
+      "themes/kokedera-dusk-color-theme.json": "80914b8e72da1169448d88b82dc754060b60ef022f3092f8914e9260b5cf9612",
+      "themes/kokedera-morning-color-theme.json": "83c7770d1716ca80c3dc171dd3a23dee71ab7b9a141acec3bc73f138bff14abd",
+      "themes/kokedera-night-color-theme.json": "cffa125b01451c37d9d6a53986900b02e50d2248446d949774c009bcfdf6de7d",
+      "themes/kokedera-spring-color-theme.json": "19c280d431578030da37c590cc1305191f0f21f8c35c366fcaee92281e7de1de",
+      "themes/kokedera-summer-color-theme.json": "1fb1d4c87773a16f6993f76dac9929b882105f6dd8ac84a055010d3cef832155",
+      "themes/kokedera-autumn-color-theme.json": "979ee60be6daac1535a62c6bac124ea4bd123100d13a1590e271b0f8667d8769",
+      "themes/kokedera-winter-color-theme.json": "856ac7684a15908c37c0be4e053b1cf9eff4db012139a57d64f6cb679f81cb57",
+      "themes/kokedera-rain-color-theme.json": "23d46b0beb138a95258d7a90595da6636e10eede821f356371b96c9ee918987b",
+      "themes/kokedera-mist-color-theme.json": "75ee13c4a8cd1928cb1141dd6eb609fa1033c843b2622de9f6f2ee6330d4d8bb"
+    }
+  }
+}

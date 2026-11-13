@@ -1,0 +1,129 @@
+// Kokedera Spring
+themes {
+    kokedera-spring {
+        text_unselected {
+            base 231 234 214
+            background 27 35 23
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        text_selected {
+            base 231 234 214
+            background 71 94 64
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        ribbon_selected {
+            base 231 234 214
+            background 71 94 64
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        ribbon_unselected {
+            base 231 234 214
+            background 27 35 23
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        table_title {
+            base 231 234 214
+            background 27 35 23
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        table_cell_selected {
+            base 231 234 214
+            background 71 94 64
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        table_cell_unselected {
+            base 231 234 214
+            background 27 35 23
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        list_selected {
+            base 231 234 214
+            background 71 94 64
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        list_unselected {
+            base 231 234 214
+            background 27 35 23
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        frame_selected {
+            base 151 212 94
+            background 71 94 64
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        frame_unselected {
+            base 84 101 71
+            background 27 35 23
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        frame_highlight {
+            base 212 200 142
+            background 27 35 23
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        exit_code_success {
+            base 151 212 94
+            background 27 35 23
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        exit_code_error {
+            base 196 90 90
+            background 27 35 23
+            emphasis_0 212 200 142
+            emphasis_1 201 139 160
+            emphasis_2 151 212 94
+            emphasis_3 154 122 191
+        }
+        multiplayer_user_colors {
+            player_1 151 212 94
+            player_2 212 200 142
+            player_3 201 139 160
+            player_4 154 122 191
+            player_5 196 90 90
+            player_6 168 208 114
+            player_7 217 138 158
+            player_8 196 154 92
+            player_9 186 216 146
+            player_10 191 162 67
+        }
+    }
+}

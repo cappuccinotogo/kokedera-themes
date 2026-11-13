@@ -1,0 +1,156 @@
+# Kokedera Morning - light
+"attribute" = "#4a6b2e"
+"variable.other.member" = "#4a6b2e"
+"type" = "#1d7a5c"
+"type.builtin" = "#1d7a5c"
+"type.parameter" = "#1d7a5c"
+"type.enum" = "#1d7a5c"
+"namespace" = "#1d7a5c"
+"constructor" = "#1d7a5c"
+"type.enum.variant" = "#99541d"
+"constant" = "#99541d"
+"constant.builtin" = "#99541d"
+"constant.builtin.boolean" = "#99541d"
+"constant.numeric" = "#99541d"
+"constant.numeric.integer" = "#99541d"
+"constant.numeric.float" = "#99541d"
+"constant.character" = "#75641a"
+"string" = "#75641a"
+"string.special" = "#75641a"
+"string.special.path" = "#75641a"
+"string.regexp" = "#7a4fa8"
+"constant.character.escape" = "#4a6b2e"
+"punctuation.special" = "#4a6b2e"
+"string.special.url" = { fg = "#3d7a6c", underline = { style = "line" } }
+"comment" = { fg = "#828e6e", modifiers = ["italic"] }
+"comment.line" = { fg = "#828e6e", modifiers = ["italic"] }
+"comment.block" = { fg = "#828e6e", modifiers = ["italic"] }
+"comment.line.documentation" = { fg = "#828e6e", modifiers = ["italic"] }
+"comment.block.documentation" = { fg = "#828e6e", modifiers = ["italic"] }
+"variable" = "#4a6b2e"
+"variable.builtin" = "#2e7d32"
+"variable.parameter" = "#4a6b2e"
+"label" = "#4a6b2e"
+"punctuation" = "#6b7a5e"
+"punctuation.delimiter" = "#6b7a5e"
+"punctuation.bracket" = "#6b7a5e"
+"operator" = "#6b7a5e"
+"keyword.operator" = "#6b7a5e"
+"keyword" = "#2e7d32"
+"keyword.control" = "#2e7d32"
+"keyword.control.conditional" = "#2e7d32"
+"keyword.control.repeat" = "#2e7d32"
+"keyword.control.import" = "#2e7d32"
+"keyword.control.return" = "#2e7d32"
+"keyword.control.exception" = "#2e7d32"
+"keyword.directive" = "#2e7d32"
+"keyword.function" = "#2e7d32"
+"keyword.storage" = "#2e7d32"
+"function" = "#487612"
+"function.builtin" = "#487612"
+"function.method" = "#487612"
+"function.macro" = "#487612"
+"function.special" = "#487612"
+"tag" = "#4a6b2e"
+"tag.builtin" = "#4a6b2e"
+"special" = "#4a6b2e"
+"markup.heading" = { fg = "#487612", modifiers = ["bold"] }
+"markup.heading.marker" = { fg = "#487612", modifiers = ["bold"] }
+"markup.heading.1" = { fg = "#487612", modifiers = ["bold"] }
+"markup.heading.2" = { fg = "#75641a", modifiers = ["bold"] }
+"markup.heading.3" = { fg = "#3d7a6c", modifiers = ["bold"] }
+"markup.heading.4" = { fg = "#7a4fa8", modifiers = ["bold"] }
+"markup.heading.5" = { fg = "#99541d", modifiers = ["bold"] }
+"markup.heading.6" = { fg = "#4a6b2e", modifiers = ["bold"] }
+"markup.list" = "#4a6b2e"
+"markup.list.unnumbered" = "#4a6b2e"
+"markup.list.numbered" = "#4a6b2e"
+"markup.list.checked" = "#487612"
+"markup.list.unchecked" = "#56694a"
+"markup.bold" = { modifiers = ["bold"] }
+"markup.italic" = { modifiers = ["italic"] }
+"markup.strikethrough" = { modifiers = ["crossed_out"] }
+"markup.link.url" = { fg = "#3d7a6c", underline = { style = "line" } }
+"markup.link.label" = "#75641a"
+"markup.link.text" = "#75641a"
+"markup.quote" = { fg = "#828e6e", modifiers = ["italic"] }
+"markup.raw" = "#75641a"
+"markup.raw.inline" = "#75641a"
+"markup.raw.block" = "#75641a"
+"diff.plus" = "#487612"
+"diff.plus.gutter" = "#487612"
+"diff.minus" = "#b03a3a"
+"diff.minus.gutter" = "#b03a3a"
+"diff.delta" = "#99541d"
+"diff.delta.gutter" = "#99541d"
+"diff.delta.moved" = "#3d7a6c"
+"diff.delta.conflict" = "#7a4fa8"
+"ui.background" = { bg = "#f4f2e6", fg = "#333f2c" }
+"ui.background.separator" = { fg = "#d5d2c0" }
+"ui.window" = { fg = "#d5d2c0" }
+"ui.cursor" = { fg = "#f4f2e6", bg = "#27ae37" }
+"ui.cursor.primary" = { fg = "#f4f2e6", bg = "#27ae37" }
+"ui.cursor.normal" = { fg = "#f4f2e6", bg = "#27ae37" }
+"ui.cursor.primary.normal" = { fg = "#f4f2e6", bg = "#27ae37" }
+"ui.cursor.insert" = { fg = "#f4f2e6", bg = "#3d7a6c" }
+"ui.cursor.primary.insert" = { fg = "#f4f2e6", bg = "#3d7a6c" }
+"ui.cursor.select" = { fg = "#f4f2e6", bg = "#7a4fa8" }
+"ui.cursor.primary.select" = { fg = "#f4f2e6", bg = "#7a4fa8" }
+"ui.cursor.match" = { fg = "#75641a", bg = "#d6d3bd", modifiers = ["bold"] }
+"ui.debug.breakpoint" = "#b03a3a"
+"ui.debug.active" = "#75641a"
+"ui.gutter" = { bg = "#f4f2e6" }
+"ui.gutter.selected" = { bg = "#ece9d8" }
+"ui.linenr" = { fg = "#779666" }
+"ui.linenr.selected" = { fg = "#3b8a3c", modifiers = ["bold"] }
+"ui.statusline" = { fg = "#333f2c", bg = "#d6d3bd" }
+"ui.statusline.inactive" = { fg = "#56694a", bg = "#ece9d8" }
+"ui.statusline.normal" = { fg = "#f4f2e6", bg = "#487612", modifiers = ["bold"] }
+"ui.statusline.insert" = { fg = "#f4f2e6", bg = "#3d7a6c", modifiers = ["bold"] }
+"ui.statusline.select" = { fg = "#f4f2e6", bg = "#7a4fa8", modifiers = ["bold"] }
+"ui.statusline.separator" = "#d5d2c0"
+"ui.bufferline" = { fg = "#56694a", bg = "#ece9d8" }
+"ui.bufferline.active" = { fg = "#333f2c", bg = "#d6d3bd", modifiers = ["bold"] }
+"ui.bufferline.background" = { bg = "#ece9d8" }
+"ui.popup" = { fg = "#333f2c", bg = "#edeadb" }
+"ui.popup.info" = { fg = "#333f2c", bg = "#edeadb" }
+"ui.help" = { fg = "#333f2c", bg = "#edeadb" }
+"ui.menu" = { fg = "#333f2c", bg = "#edeadb" }
+"ui.picker.header" = { fg = "#56694a", bg = "#ece9d8" }
+"ui.picker.header.column" = "#56694a"
+"ui.picker.header.column.active" = { fg = "#3b8a3c", modifiers = ["bold"] }
+"ui.text" = "#333f2c"
+"ui.text.info" = "#333f2c"
+"ui.text.focus" = { fg = "#3b8a3c", modifiers = ["bold"] }
+"ui.text.inactive" = "#56694a"
+"ui.text.directory" = "#487612"
+"ui.virtual.ruler" = "#dedbc9"
+"ui.virtual.whitespace" = "#dedbc9"
+"ui.virtual.indent-guide" = "#dedbc9"
+"ui.virtual.inlay-hint" = { fg = "#56694a", bg = "#ece9d8" }
+"ui.virtual.inlay-hint.parameter" = { fg = "#56694a", bg = "#ece9d8" }
+"ui.virtual.inlay-hint.type" = { fg = "#56694a", bg = "#ece9d8" }
+"ui.virtual.wrap" = "#779666"
+"ui.virtual.jump-label" = { fg = "#b03a3a", modifiers = ["bold"] }
+"ui.menu.selected" = { fg = "#333f2c", bg = "#d6d3bd", modifiers = ["bold"] }
+"ui.menu.scroll" = { fg = "#d5d2c0", bg = "#ece9d8" }
+"ui.selection" = { bg = "#e0ddc8" }
+"ui.selection.primary" = { bg = "#e0ddc8" }
+"ui.highlight" = { bg = "#ece9d8" }
+"ui.cursorline.primary" = { bg = "#ece9d8" }
+"ui.cursorline.secondary" = { bg = "#ece9d8" }
+"ui.cursorcolumn.primary" = { bg = "#ece9d8" }
+"ui.cursorcolumn.secondary" = { bg = "#ece9d8" }
+"ui.highlight.frameline" = { bg = "#d6d3bd" }
+"tabstop" = { bg = "#d6d3bd" }
+"error" = "#b03a3a"
+"diagnostic.error" = { underline = { color = "#b03a3a", style = "curl" } }
+"warning" = "#99541d"
+"diagnostic.warning" = { underline = { color = "#99541d", style = "curl" } }
+"info" = "#3d7a6c"
+"diagnostic.info" = { underline = { color = "#3d7a6c", style = "curl" } }
+"hint" = "#4a6b2e"
+"diagnostic.hint" = { underline = { color = "#4a6b2e", style = "curl" } }
+"diagnostic" = { underline = { color = "#99541d", style = "curl" } }
+"diagnostic.unnecessary" = { fg = "#828e6e", modifiers = ["italic"] }
+"diagnostic.deprecated" = { modifiers = ["crossed_out"] }

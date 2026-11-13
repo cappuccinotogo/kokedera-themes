@@ -1,0 +1,69 @@
+{
+  "manifest_version": 2,
+  "name": "Kokedera Winter",
+  "version": "1.0.0",
+  "description": "Kokedera Winter: a light moss temple palette for Firefox.",
+  "author": "Florian Mühlhans",
+  "homepage_url": "https://kokedera.style",
+  "icons": {
+    "512": "icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "kokedera-winter@cappuccinotogo",
+      "strict_min_version": "128.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#e2e6e2",
+      "frame_inactive": "#e6e9e7",
+      "tab_background_text": "#323c36",
+      "tab_selected": "#eef0ee",
+      "tab_text": "#323c36",
+      "tab_line": "#2e7a8a",
+      "tab_loading": "#2e7a8a",
+      "tab_background_separator": "#d2d7d2",
+      "toolbar": "#eef0ee",
+      "toolbar_text": "#323c36",
+      "bookmark_text": "#323c36",
+      "toolbar_field": "#e2e6e2",
+      "toolbar_field_text": "#323c36",
+      "toolbar_field_border": "#c8cec8",
+      "toolbar_field_border_focus": "#25708f",
+      "toolbar_field_focus": "#e6e9e6",
+      "toolbar_field_text_focus": "#323c36",
+      "toolbar_field_highlight": "#c9d0c9",
+      "toolbar_field_highlight_text": "#323c36",
+      "toolbar_top_separator": "#d2d7d2",
+      "toolbar_bottom_separator": "#d2d7d2",
+      "toolbar_vertical_separator": "#c8cec8",
+      "button_background_hover": "#d4dad4",
+      "button_background_active": "#c9d0c9",
+      "icons": "#323c36",
+      "icons_attention": "#323c36",
+      "popup": "#e6e9e6",
+      "popup_text": "#323c36",
+      "popup_border": "#c8cec8",
+      "popup_highlight": "#c9d0c9",
+      "popup_highlight_text": "#323c36",
+      "sidebar": "#e2e6e2",
+      "sidebar_text": "#323c36",
+      "sidebar_border": "#d2d7d2",
+      "sidebar_highlight": "#c9d0c9",
+      "sidebar_highlight_text": "#323c36",
+      "ntp_background": "#eef0ee",
+      "ntp_card_background": "#e2e6e2",
+      "ntp_text": "#323c36"
+    },
+    "properties": {
+      "color_scheme": "light",
+      "content_color_scheme": "light"
+    }
+  }
+}

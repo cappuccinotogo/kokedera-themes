@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "repository": "cappuccinotogo/kokedera-themes",
+  "path": "ports/kokedera-theme-extension-vim",
+  "generator": "https://github.com/cappuccinotogo/kokedera-themes",
+  "generatorHash": "40c1af138a85d868841fe4f5fb6af4416667fe70a66abce5529f6eb247201228",
+  "paletteHash": "aaf788a9d397c9b4b5c60d540834143a7e97d299b28ce8adddf88f90ddce6d8b",
+  "variants": [
+    {
+      "id": "dusk",
+      "name": "Kokedera Dusk",
+      "scheme": "dark"
+    },
+    {
+      "id": "morning",
+      "name": "Kokedera Morning",
+      "scheme": "light"
+    },
+    {
+      "id": "night",
+      "name": "Kokedera Night",
+      "scheme": "dark"
+    },
+    {
+      "id": "spring",
+      "name": "Kokedera Spring",
+      "scheme": "dark"
+    },
+    {
+      "id": "summer",
+      "name": "Kokedera Summer",
+      "scheme": "dark"
+    },
+    {
+      "id": "autumn",
+      "name": "Kokedera Autumn",
+      "scheme": "dark"
+    },
+    {
+      "id": "winter",
+      "name": "Kokedera Winter",
+      "scheme": "light"
+    },
+    {
+      "id": "rain",
+      "name": "Kokedera Rain",
+      "scheme": "dark"
+    },
+    {
+      "id": "mist",
+      "name": "Kokedera Mist",
+      "scheme": "dark"
+    }
+  ],
+  "files": {
+    ".gitattributes": "84b7ac022a60b33354a2682cef1c45b38cda73c82663ebf1f5a36244181f41f9",
+    ".github/workflows/validate.yml": "6fcdb75de637071c43b111b2413eea3731f02d3183927163699f4e7767e338e2",
+    ".gitignore": "fdbd55a593609bb23a4fb57f77672a966635e6698774fadb28a494c056763be1",
+    "LICENSE": "6c6c6451b00ce86b2cc473120eded4aa07992aea873700f96397b4d4c9b7dc04",
+    "README.md": "33efcdf8f72950a3b6e755e68c9b6f4fafcfd7690786eab204c231ac798dc0bc",
+    "assets/golem.svg": "7391b078b497a49677da33dabf5ff20dc5eea735a50f88aa5bbd18db6aaf8e37",
+    "assets/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "assets/palettes.svg": "119c42b7edb1be462eea4493d2c9c1d6895f10f71b677a1b739cea945de636b9",
+    "colors/kokedera-autumn.vim": "4c08b7060ed621b229fb0dcbf144bafd2d764fa6f0601cf1b936ec6e4cbb625f",
+    "colors/kokedera-dusk.vim": "f537e54a5cf73b9d1bd6f02d1914e9b5b987cd6d951b430764578a9f8100f02a",
+    "colors/kokedera-mist.vim": "4926ac7272c4800903fb9276202f265c494622f86793a416f79465c2dac96dc5",
+    "colors/kokedera-morning.vim": "e22617e55a9b25cd28694c26fe8544ec0f17b33c067f18ea1d0fa148cecc5401",
+    "colors/kokedera-night.vim": "c2a28b3692b6bcf545a374734a70c96f0f56c82c5b478b553e215b1521768681",
+    "colors/kokedera-rain.vim": "42b4b9fd8d6dfc259672a716bb0c8c1531c411743bc7e4e07f9ea67ce74aedb9",
+    "colors/kokedera-spring.vim": "af419ac60526d9fc2c6727ddea255f66f15b6842820dbdf42b798d30f4d78161",
+    "colors/kokedera-summer.vim": "8f5f1fb9d5130246554021fd11b8baca7e5d87bf27266ae9f556e7aebb46c411",
+    "colors/kokedera-winter.vim": "57cbc2f02021443ea0eeaf67e96b4a9f648940756c7c8759dd973acbf19415c6",
+    "colors/kokedera.vim": "b3f4a409c7013a1037f4bf354ee75bc01b2d1e10e09ce39e69f18f3dfc4a5570",
+    "scripts/verify.py": "ae7957672341d412d2c1c31fb5d2c0299b85148ec5d9747c2cc5c9176e6ad2cc"
+  }
+}

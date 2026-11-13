@@ -1,0 +1,129 @@
+// Kokedera Night
+themes {
+    kokedera-night {
+        text_unselected {
+            base 229 238 220
+            background 10 14 9
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        text_selected {
+            base 229 238 220
+            background 27 38 26
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        ribbon_selected {
+            base 229 238 220
+            background 27 38 26
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        ribbon_unselected {
+            base 229 238 220
+            background 10 14 9
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        table_title {
+            base 229 238 220
+            background 10 14 9
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        table_cell_selected {
+            base 229 238 220
+            background 27 38 26
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        table_cell_unselected {
+            base 229 238 220
+            background 10 14 9
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        list_selected {
+            base 229 238 220
+            background 27 38 26
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        list_unselected {
+            base 229 238 220
+            background 10 14 9
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        frame_selected {
+            base 152 215 135
+            background 27 38 26
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        frame_unselected {
+            base 32 41 29
+            background 10 14 9
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        frame_highlight {
+            base 231 221 176
+            background 10 14 9
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        exit_code_success {
+            base 152 215 135
+            background 10 14 9
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        exit_code_error {
+            base 215 115 115
+            background 10 14 9
+            emphasis_0 231 221 176
+            emphasis_1 108 180 164
+            emphasis_2 152 215 135
+            emphasis_3 178 150 211
+        }
+        multiplayer_user_colors {
+            player_1 152 215 135
+            player_2 231 221 176
+            player_3 108 180 164
+            player_4 178 150 211
+            player_5 215 115 115
+            player_6 167 211 138
+            player_7 62 188 132
+            player_8 215 176 117
+            player_9 188 211 169
+            player_10 211 182 88
+        }
+    }
+}

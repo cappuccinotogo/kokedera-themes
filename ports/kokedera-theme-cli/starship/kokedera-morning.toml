@@ -1,0 +1,32 @@
+# Kokedera Morning — generated from the shared Kokedera palette
+"$schema" = "https://starship.rs/config-schema.json"
+palette = "kokedera_morning"
+format = "$directory$git_branch$git_status$cmd_duration$line_break$character"
+
+[palettes.kokedera_morning]
+moss = "#2e7d32"
+fern = "#487612"
+lantern = "#75641a"
+stone = "#56694a"
+error = "#b03a3a"
+stream = "#3d7a6c"
+special = "#7a4fa8"
+
+[directory]
+style = "bold moss"
+read_only_style = "error"
+
+[git_branch]
+style = "fern"
+symbol = "git "
+
+[git_status]
+style = "special"
+
+[cmd_duration]
+style = "lantern"
+
+[character]
+success_symbol = "[>](bold moss)"
+error_symbol = "[>](bold error)"
+vimcmd_symbol = "[<](bold stream)"

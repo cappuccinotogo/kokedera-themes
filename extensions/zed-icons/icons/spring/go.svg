@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="12" cy="12" r="8.5" fill="#3d4f35" />
+  <circle cx="12" cy="12" r="7.5" fill="#d98a9e" />
+  <ellipse cx="10" cy="9.5" rx="3.5" ry="2.5" fill="#946071" opacity="0.5" />
+  <ellipse cx="10" cy="9" rx="1.5" ry="1" fill="#a87284" opacity="0.4" />
+</svg>

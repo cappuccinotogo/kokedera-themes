@@ -1,0 +1,2 @@
+# Kokedera Autumn — generated from the shared Kokedera palette
+export FZF_DEFAULT_OPTS="${FZF_DEFAULT_OPTS-} --color=fg:#d8c1b8,bg:#1a1511,hl:#c48c6c,fg+:#d8c1b8,bg+:#453930,hl+:#e6945a,info:#aa9287,prompt:#b57e55,pointer:#d4c88e,marker:#9a7abf,spinner:#c47a5e,header:#bf886f,border:#4a3e35,separator:#3d322a,scrollbar:#8a6d5e,label:#aa9287,query:#d8c1b8,preview-fg:#d8c1b8,preview-bg:#1a1511,preview-border:#4a3e35"

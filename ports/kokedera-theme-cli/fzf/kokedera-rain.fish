@@ -1,0 +1,2 @@
+# Kokedera Rain — generated from the shared Kokedera palette
+set -gx FZF_DEFAULT_OPTS "$FZF_DEFAULT_OPTS --color=fg:#b8d8c8,bg:#111a19,hl:#6cc4b2,fg+:#b8d8c8,bg+:#304544,hl+:#5ae6e6,info:#87aa9d,prompt:#4ca6a6,pointer:#d4c88e,marker:#9a7abf,spinner:#5a8b9e,header:#6fbf9f,border:#354a45,separator:#2a3d39,scrollbar:#5e8a7b,label:#87aa9d,query:#b8d8c8,preview-fg:#b8d8c8,preview-bg:#111a19,preview-border:#354a45"

@@ -1,0 +1,2 @@
+# Kokedera Spring — generated from the shared Kokedera palette
+export FZF_DEFAULT_OPTS="${FZF_DEFAULT_OPTS-} --color=fg:#e7ead6,bg:#1b2317,hl:#97d45e,fg+:#e7ead6,bg+:#475e40,hl+:#8ee65a,info:#b2bb9a,prompt:#7ac93e,pointer:#d4c88e,marker:#9a7abf,spinner:#c98ba0,header:#a8d072,border:#546547,separator:#435338,scrollbar:#8b9d67,label:#b2bb9a,query:#e7ead6,preview-fg:#e7ead6,preview-bg:#1b2317,preview-border:#546547"

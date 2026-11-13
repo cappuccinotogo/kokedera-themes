@@ -1,0 +1,2 @@
+# Kokedera Mist — generated from the shared Kokedera palette
+export FZF_DEFAULT_OPTS="${FZF_DEFAULT_OPTS-} --color=fg:#aab69e,bg:#191e19,hl:#8ab383,fg+:#aab69e,bg+:#414b40,hl+:#7dbf7d,info:#909c89,prompt:#6ba263,pointer:#b5a97e,marker:#9787ab,spinner:#7b98a8,header:#85ab6f,border:#495146,separator:#3b4339,scrollbar:#7c8c74,label:#909c89,query:#aab69e,preview-fg:#aab69e,preview-bg:#191e19,preview-border:#495146"

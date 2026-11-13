@@ -1,0 +1,2 @@
+# Kokedera Dusk — generated from the shared Kokedera palette
+$env:FZF_DEFAULT_OPTS = "$env:FZF_DEFAULT_OPTS --color=fg:#c8d8b8,bg:#121a11,hl:#7ec46c,fg+:#c8d8b8,bg+:#314530,hl+:#5ae65a,info:#94aa87,prompt:#4ca64c,pointer:#d4c88e,marker:#9a7abf,spinner:#5a9e8f,header:#8fbf6f,border:#3a4a35,separator:#2e3d2a,scrollbar:#6d8a5e,label:#94aa87,query:#c8d8b8,preview-fg:#c8d8b8,preview-bg:#121a11,preview-border:#3a4a35"

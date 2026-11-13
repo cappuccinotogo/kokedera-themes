@@ -1,0 +1,129 @@
+// Kokedera Summer
+themes {
+    kokedera-summer {
+        text_unselected {
+            base 210 231 189
+            background 12 26 11
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        text_selected {
+            base 210 231 189
+            background 33 67 33
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        ribbon_selected {
+            base 210 231 189
+            background 33 67 33
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        ribbon_unselected {
+            base 210 231 189
+            background 12 26 11
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        table_title {
+            base 210 231 189
+            background 12 26 11
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        table_cell_selected {
+            base 210 231 189
+            background 33 67 33
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        table_cell_unselected {
+            base 210 231 189
+            background 12 26 11
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        list_selected {
+            base 210 231 189
+            background 33 67 33
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        list_unselected {
+            base 210 231 189
+            background 12 26 11
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        frame_selected {
+            base 86 209 101
+            background 33 67 33
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        frame_unselected {
+            base 44 71 37
+            background 12 26 11
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        frame_highlight {
+            base 224 197 101
+            background 12 26 11
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        exit_code_success {
+            base 86 209 101
+            background 12 26 11
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        exit_code_error {
+            base 196 90 90
+            background 12 26 11
+            emphasis_0 224 197 101
+            emphasis_1 61 191 159
+            emphasis_2 86 209 101
+            emphasis_3 154 122 191
+        }
+        multiplayer_user_colors {
+            player_1 86 209 101
+            player_2 224 197 101
+            player_3 61 191 159
+            player_4 154 122 191
+            player_5 196 90 90
+            player_6 127 208 95
+            player_7 31 184 122
+            player_8 209 164 78
+            player_9 159 214 127
+            player_10 207 174 58
+        }
+    }
+}

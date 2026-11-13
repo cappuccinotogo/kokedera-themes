@@ -1,0 +1,16 @@
+# Kokedera Rain — generated from the shared Kokedera palette
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jesseduffield/lazygit/master/schema/config.json
+gui:
+  theme:
+    activeBorderColor: ["#4ca6a6","bold"]
+    inactiveBorderColor: ["#354a45"]
+    searchingActiveBorderColor: ["#d4c88e","bold"]
+    optionsTextColor: ["#5a8b9e"]
+    selectedLineBgColor: ["#304544"]
+    inactiveViewSelectedLineBgColor: ["#192625"]
+    cherryPickedCommitFgColor: ["#9a7abf"]
+    cherryPickedCommitBgColor: ["#263d39"]
+    markedBaseCommitFgColor: ["#d4c88e"]
+    markedBaseCommitBgColor: ["#263d39"]
+    unstagedChangesColor: ["#c45a5a"]
+    defaultFgColor: ["#b8d8c8"]

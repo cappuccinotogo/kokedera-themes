@@ -1,0 +1,111 @@
+# Kokedera Spring — generated from the shared Kokedera palette
+# :schema https://yazi-rs.github.io/schemas/theme.json
+
+[app]
+overall = { bg = "#1b2317" }
+
+[mgr]
+cwd = { fg = "#97d45e" }
+find_keyword = { fg = "#d4c88e", bold = true, underline = true }
+find_position = { fg = "#9a7abf" }
+symlink_target = { fg = "#c98ba0", italic = true }
+marker_copied = { fg = "#a8d072", bg = "#a8d072" }
+marker_cut = { fg = "#c45a5a", bg = "#c45a5a" }
+marker_marked = { fg = "#9a7abf", bg = "#9a7abf" }
+marker_selected = { fg = "#d4c88e", bg = "#d4c88e" }
+count_copied = { fg = "#e7ead6", bg = "#475e40" }
+count_cut = { fg = "#c45a5a", bg = "#263421" }
+count_selected = { fg = "#d4c88e", bg = "#263421" }
+border_style = { fg = "#546547" }
+
+[tabs]
+active = { fg = "#e7ead6", bg = "#475e40", bold = true }
+inactive = { fg = "#b2bb9a", bg = "#263421" }
+
+[mode]
+normal_main = { fg = "#e7ead6", bg = "#475e40", bold = true }
+normal_alt = { fg = "#97d45e", bg = "#263421" }
+select_main = { fg = "#d4c88e", bg = "#475e40", bold = true }
+select_alt = { fg = "#d4c88e", bg = "#263421" }
+unset_main = { fg = "#c45a5a", bg = "#475e40", bold = true }
+unset_alt = { fg = "#c45a5a", bg = "#263421" }
+
+[indicator]
+parent = { fg = "#e7ead6", bg = "#3f5333" }
+current = { fg = "#e7ead6", bg = "#475e40", bold = true }
+preview = { fg = "#e7ead6", bg = "#3f5333" }
+
+[status]
+overall = { fg = "#e7ead6", bg = "#263421" }
+perm_sep = { fg = "#8b9d67" }
+perm_type = { fg = "#a8d072" }
+perm_read = { fg = "#d4c88e" }
+perm_write = { fg = "#c45a5a" }
+perm_exec = { fg = "#c98ba0" }
+progress_label = { fg = "#e7ead6", bold = true }
+progress_normal = { fg = "#7ac93e", bg = "#263421" }
+progress_error = { fg = "#c45a5a", bg = "#263421" }
+
+[which]
+border = { fg = "#546547" }
+cand = { fg = "#97d45e" }
+rest = { fg = "#b2bb9a" }
+desc = { fg = "#d4c88e" }
+separator_style = { fg = "#546547" }
+
+[confirm]
+border = { fg = "#546547" }
+title = { fg = "#97d45e" }
+body = { fg = "#e7ead6" }
+list = { fg = "#e7ead6" }
+btn_yes = { fg = "#e7ead6", bg = "#475e40", bold = true }
+btn_no = { fg = "#b2bb9a", bg = "#263421" }
+
+[spot]
+border = { fg = "#546547" }
+title = { fg = "#97d45e" }
+tbl_col = { fg = "#c98ba0" }
+tbl_cell = { fg = "#e7ead6", bg = "#475e40" }
+
+[notify]
+title_info = { fg = "#c98ba0" }
+title_warn = { fg = "#bfa243" }
+title_error = { fg = "#c45a5a" }
+
+[pick]
+border = { fg = "#546547" }
+active = { fg = "#97d45e", bold = true }
+inactive = { fg = "#e7ead6" }
+
+[input]
+border = { fg = "#546547" }
+title = { fg = "#97d45e" }
+value = { fg = "#e7ead6" }
+selected = { fg = "#e7ead6", bg = "#475e40" }
+
+[cmp]
+border = { fg = "#546547" }
+active = { fg = "#e7ead6", bg = "#475e40" }
+inactive = { fg = "#e7ead6" }
+
+[tasks]
+border = { fg = "#546547" }
+title = { fg = "#97d45e" }
+hovered = { fg = "#e7ead6", bg = "#475e40" }
+
+[help]
+border = { fg = "#546547" }
+chord = { fg = "#97d45e" }
+action = { fg = "#e7ead6" }
+hovered = { fg = "#e7ead6", bg = "#475e40", bold = true }
+
+[filetype]
+rules = [
+  { url = "*/", fg = "#a8d072", bold = true },
+  { mime = "image/*", fg = "#d4c88e" },
+  { mime = "{audio,video}/*", fg = "#9a7abf" },
+  { mime = "application/{zip,gzip,x-tar,x-7z-compressed}", fg = "#c49a5c" },
+  { url = "*", is = "orphan", fg = "#c45a5a" },
+  { url = "*", is = "exec", fg = "#97d45e" },
+  { url = "*", fg = "#e7ead6" },
+]

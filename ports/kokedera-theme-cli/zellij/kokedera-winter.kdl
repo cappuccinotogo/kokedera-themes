@@ -1,0 +1,129 @@
+// Kokedera Winter
+themes {
+    kokedera-winter {
+        text_unselected {
+            base 50 60 54
+            background 238 240 238
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        text_selected {
+            base 50 60 54
+            background 201 208 201
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        ribbon_selected {
+            base 50 60 54
+            background 201 208 201
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        ribbon_unselected {
+            base 50 60 54
+            background 238 240 238
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        table_title {
+            base 50 60 54
+            background 238 240 238
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        table_cell_selected {
+            base 50 60 54
+            background 201 208 201
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        table_cell_unselected {
+            base 50 60 54
+            background 238 240 238
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        list_selected {
+            base 50 60 54
+            background 201 208 201
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        list_unselected {
+            base 50 60 54
+            background 238 240 238
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        frame_selected {
+            base 46 122 138
+            background 201 208 201
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        frame_unselected {
+            base 200 206 200
+            background 238 240 238
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        frame_highlight {
+            base 107 92 42
+            background 238 240 238
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        exit_code_success {
+            base 46 122 138
+            background 238 240 238
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        exit_code_error {
+            base 168 72 72
+            background 238 240 238
+            emphasis_0 107 92 42
+            emphasis_1 53 125 112
+            emphasis_2 46 122 138
+            emphasis_3 107 90 154
+        }
+        multiplayer_user_colors {
+            player_1 46 122 138
+            player_2 107 92 42
+            player_3 53 125 112
+            player_4 107 90 154
+            player_5 168 72 72
+            player_6 47 120 70
+            player_7 31 125 107
+            player_8 138 85 46
+            player_9 74 107 92
+            player_10 122 101 24
+        }
+    }
+}

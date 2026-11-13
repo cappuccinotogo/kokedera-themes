@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "repository": "cappuccinotogo/kokedera-themes",
+  "path": "ports/kokedera-theme-extension-firefox",
+  "generator": "https://github.com/cappuccinotogo/kokedera-themes",
+  "generatorHash": "40c1af138a85d868841fe4f5fb6af4416667fe70a66abce5529f6eb247201228",
+  "paletteHash": "aaf788a9d397c9b4b5c60d540834143a7e97d299b28ce8adddf88f90ddce6d8b",
+  "variants": [
+    {
+      "id": "dusk",
+      "name": "Kokedera Dusk",
+      "scheme": "dark"
+    },
+    {
+      "id": "morning",
+      "name": "Kokedera Morning",
+      "scheme": "light"
+    },
+    {
+      "id": "night",
+      "name": "Kokedera Night",
+      "scheme": "dark"
+    },
+    {
+      "id": "spring",
+      "name": "Kokedera Spring",
+      "scheme": "dark"
+    },
+    {
+      "id": "summer",
+      "name": "Kokedera Summer",
+      "scheme": "dark"
+    },
+    {
+      "id": "autumn",
+      "name": "Kokedera Autumn",
+      "scheme": "dark"
+    },
+    {
+      "id": "winter",
+      "name": "Kokedera Winter",
+      "scheme": "light"
+    },
+    {
+      "id": "rain",
+      "name": "Kokedera Rain",
+      "scheme": "dark"
+    },
+    {
+      "id": "mist",
+      "name": "Kokedera Mist",
+      "scheme": "dark"
+    }
+  ],
+  "files": {
+    ".gitattributes": "84b7ac022a60b33354a2682cef1c45b38cda73c82663ebf1f5a36244181f41f9",
+    ".github/workflows/validate.yml": "18ab84941a64c393e04c16bcde7cdad22622d39c916a7861e8ff6116938fff8d",
+    ".gitignore": "fdbd55a593609bb23a4fb57f77672a966635e6698774fadb28a494c056763be1",
+    "LICENSE": "6c6c6451b00ce86b2cc473120eded4aa07992aea873700f96397b4d4c9b7dc04",
+    "README.md": "7265f7a171fc75b9dc4cb243199e519a2d3f9a78a899c2bfc0f99b8fde1df8ab",
+    "assets/golem.svg": "7391b078b497a49677da33dabf5ff20dc5eea735a50f88aa5bbd18db6aaf8e37",
+    "assets/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "assets/palettes.svg": "119c42b7edb1be462eea4493d2c9c1d6895f10f71b677a1b739cea945de636b9",
+    "package.json": "f154e9feff38a9e3bfaa0550f061d09466e7ce53a9499023a885e69c3ff6d68e",
+    "scripts/verify.py": "ae7957672341d412d2c1c31fb5d2c0299b85148ec5d9747c2cc5c9176e6ad2cc",
+    "scripts/web-ext.mjs": "0ae0fd997f35c594691d0b281fc61e220dd83baf1be81dea74ae517fd44235cb",
+    "themes/autumn/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "themes/autumn/manifest.json": "27d496a3c0f54654515eb4f00f10e4b17f49c9ceeb04652812e61dec5b71005a",
+    "themes/dusk/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "themes/dusk/manifest.json": "6a01e8383ad5e7d0becec86c7ea70315150fab55db3358afbc0e894615cd8fa4",
+    "themes/mist/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "themes/mist/manifest.json": "e8bfcbfc718012ec3b0688e77190c06e3305cb9769b02a77116caf3f930cca6f",
+    "themes/morning/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "themes/morning/manifest.json": "8a5c5401680fa99ce056c4a27092e049a4db6b4670ed60797220525407f61d65",
+    "themes/night/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "themes/night/manifest.json": "32a87d6ea96a16cbb67ec090113f88fbc0ee4f91c6e95caa1adc107f558089b0",
+    "themes/rain/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "themes/rain/manifest.json": "5edbd41d02c03e50d94426f7d8ae1dc4100482e8e9c76bb71166a6c14c578974",
+    "themes/spring/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "themes/spring/manifest.json": "d88ea45b837b5919db2de9daccc49471c55cb76a1576c81837a9787be26e1753",
+    "themes/summer/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "themes/summer/manifest.json": "27782df84a751172cbf9b6e471a10f4f5dbf2a1ccd853af75da4d1cd5550a136",
+    "themes/winter/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "themes/winter/manifest.json": "d103543f8102bdda2a5ceaf357cfcede99f5b9a193e7324f5f45d45ac4a013f4"
+  }
+}

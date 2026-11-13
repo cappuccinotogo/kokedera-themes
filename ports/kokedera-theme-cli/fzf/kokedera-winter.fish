@@ -1,0 +1,2 @@
+# Kokedera Winter — generated from the shared Kokedera palette
+set -gx FZF_DEFAULT_OPTS "$FZF_DEFAULT_OPTS --color=fg:#323c36,bg:#eef0ee,hl:#2e7a8a,fg+:#323c36,bg+:#c9d0c9,hl+:#1f8aa8,info:#536152,prompt:#25708f,pointer:#6b5c2a,marker:#6b5a9a,spinner:#357d70,header:#2f7846,border:#c8cec8,separator:#d2d7d2,scrollbar:#728a72,label:#536152,query:#323c36,preview-fg:#323c36,preview-bg:#eef0ee,preview-border:#c8cec8"

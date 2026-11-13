@@ -1,0 +1,32 @@
+# Kokedera Autumn — generated from the shared Kokedera palette
+"$schema" = "https://starship.rs/config-schema.json"
+palette = "kokedera_autumn"
+format = "$directory$git_branch$git_status$cmd_duration$line_break$character"
+
+[palettes.kokedera_autumn]
+moss = "#b57e55"
+fern = "#bf886f"
+lantern = "#d4c88e"
+stone = "#aa9287"
+error = "#c45a5a"
+stream = "#c47a5e"
+special = "#9a7abf"
+
+[directory]
+style = "bold moss"
+read_only_style = "error"
+
+[git_branch]
+style = "fern"
+symbol = "git "
+
+[git_status]
+style = "special"
+
+[cmd_duration]
+style = "lantern"
+
+[character]
+success_symbol = "[>](bold moss)"
+error_symbol = "[>](bold error)"
+vimcmd_symbol = "[<](bold stream)"

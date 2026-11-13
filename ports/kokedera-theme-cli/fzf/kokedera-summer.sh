@@ -1,0 +1,2 @@
+# Kokedera Summer — generated from the shared Kokedera palette
+export FZF_DEFAULT_OPTS="${FZF_DEFAULT_OPTS-} --color=fg:#d2e7bd,bg:#0c1a0b,hl:#56d165,fg+:#d2e7bd,bg+:#214321,hl+:#4bf05f,info:#99ba86,prompt:#2ec75a,pointer:#e0c565,marker:#9a7abf,spinner:#3dbf9f,header:#7fd05f,border:#2c4725,separator:#223b1c,scrollbar:#6e9f55,label:#99ba86,query:#d2e7bd,preview-fg:#d2e7bd,preview-bg:#0c1a0b,preview-border:#2c4725"

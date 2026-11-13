@@ -1,0 +1,16 @@
+# Kokedera Summer — generated from the shared Kokedera palette
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jesseduffield/lazygit/master/schema/config.json
+gui:
+  theme:
+    activeBorderColor: ["#2ec75a","bold"]
+    inactiveBorderColor: ["#2c4725"]
+    searchingActiveBorderColor: ["#e0c565","bold"]
+    optionsTextColor: ["#3dbf9f"]
+    selectedLineBgColor: ["#214321"]
+    inactiveViewSelectedLineBgColor: ["#112510"]
+    cherryPickedCommitFgColor: ["#9a7abf"]
+    cherryPickedCommitBgColor: ["#1d3d18"]
+    markedBaseCommitFgColor: ["#e0c565"]
+    markedBaseCommitBgColor: ["#1d3d18"]
+    unstagedChangesColor: ["#c45a5a"]
+    defaultFgColor: ["#d2e7bd"]

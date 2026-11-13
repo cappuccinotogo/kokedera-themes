@@ -1,0 +1,7 @@
+id = "kokedera-theme"
+name = "Kokedera Theme"
+version = "2.0.1"
+schema_version = 1
+authors = ["Florian Mühlhans"]
+description = "Nine hand-tuned color themes inspired by forest greens, weathered stone, and warm lantern light — seven dark palettes and two light palettes."
+repository = "https://github.com/cappuccinotogo/kokedera-themes"

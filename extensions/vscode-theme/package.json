@@ -1,0 +1,89 @@
+{
+  "name": "kokedera-theme",
+  "displayName": "Kokedera — Moss Temple Theme",
+  "description": "Nine hand-tuned color themes inspired by forest greens, weathered stone, and warm lantern light — seven dark palettes and two light palettes.",
+  "version": "2.0.0",
+  "publisher": "7th-Layer",
+  "author": {
+    "name": "Florian Mühlhans"
+  },
+  "license": "MIT",
+  "homepage": "https://kokedera.style",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cappuccinotogo/kokedera-themes",
+    "directory": "extensions/vscode-theme"
+  },
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "green",
+    "kokedera",
+    "light",
+    "moss",
+    "theme",
+    "temple"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kokedera Morning",
+        "uiTheme": "vs",
+        "path": "./themes/kokedera-morning-color-theme.json"
+      },
+      {
+        "label": "Kokedera Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokedera-dusk-color-theme.json"
+      },
+      {
+        "label": "Kokedera Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokedera-night-color-theme.json"
+      },
+      {
+        "label": "Kokedera Spring",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokedera-spring-color-theme.json"
+      },
+      {
+        "label": "Kokedera Summer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokedera-summer-color-theme.json"
+      },
+      {
+        "label": "Kokedera Autumn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokedera-autumn-color-theme.json"
+      },
+      {
+        "label": "Kokedera Winter",
+        "uiTheme": "vs",
+        "path": "./themes/kokedera-winter-color-theme.json"
+      },
+      {
+        "label": "Kokedera Rain",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokedera-rain-color-theme.json"
+      },
+      {
+        "label": "Kokedera Mist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokedera-mist-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#121a11",
+    "theme": "dark"
+  },
+  "bugs": {
+    "url": "https://github.com/cappuccinotogo/kokedera-themes/issues"
+  }
+}

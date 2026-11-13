@@ -1,0 +1,95 @@
+{
+  "name": "kokedera-icons",
+  "displayName": "Kokedera Icons — Moss Temple Icons",
+  "description": "Moss-temple file icon themes — nine sets matching the Kokedera color theme variants.",
+  "version": "2.0.0",
+  "publisher": "7th-Layer",
+  "author": {
+    "name": "Florian Mühlhans"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#121a11",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "file-icons",
+    "folder-icons",
+    "icon-theme",
+    "icons",
+    "kokedera",
+    "light",
+    "moss",
+    "temple",
+    "zen"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cappuccinotogo/kokedera-themes",
+    "directory": "extensions/vscode-icons"
+  },
+  "homepage": "https://kokedera.style",
+  "bugs": {
+    "url": "https://github.com/cappuccinotogo/kokedera-themes/issues"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "kokedera-icons-morning",
+        "label": "Kokedera Icons Morning",
+        "path": "./kokedera-morning-icon-theme.json"
+      },
+      {
+        "id": "kokedera-icons",
+        "label": "Kokedera Icons Dusk",
+        "path": "./kokedera-icon-theme.json"
+      },
+      {
+        "id": "kokedera-icons-night",
+        "label": "Kokedera Icons Night",
+        "path": "./kokedera-night-icon-theme.json"
+      },
+      {
+        "id": "kokedera-icons-spring",
+        "label": "Kokedera Icons Spring",
+        "path": "./kokedera-spring-icon-theme.json"
+      },
+      {
+        "id": "kokedera-icons-summer",
+        "label": "Kokedera Icons Summer",
+        "path": "./kokedera-summer-icon-theme.json"
+      },
+      {
+        "id": "kokedera-icons-autumn",
+        "label": "Kokedera Icons Autumn",
+        "path": "./kokedera-autumn-icon-theme.json"
+      },
+      {
+        "id": "kokedera-icons-winter",
+        "label": "Kokedera Icons Winter",
+        "path": "./kokedera-winter-icon-theme.json"
+      },
+      {
+        "id": "kokedera-icons-rain",
+        "label": "Kokedera Icons Rain",
+        "path": "./kokedera-rain-icon-theme.json"
+      },
+      {
+        "id": "kokedera-icons-mist",
+        "label": "Kokedera Icons Mist",
+        "path": "./kokedera-mist-icon-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "node ../../tools/icons.mjs vscode"
+  }
+}

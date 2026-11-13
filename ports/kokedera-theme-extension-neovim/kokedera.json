@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "repository": "cappuccinotogo/kokedera-themes",
+  "path": "ports/kokedera-theme-extension-neovim",
+  "generator": "https://github.com/cappuccinotogo/kokedera-themes",
+  "generatorHash": "40c1af138a85d868841fe4f5fb6af4416667fe70a66abce5529f6eb247201228",
+  "paletteHash": "aaf788a9d397c9b4b5c60d540834143a7e97d299b28ce8adddf88f90ddce6d8b",
+  "variants": [
+    {
+      "id": "dusk",
+      "name": "Kokedera Dusk",
+      "scheme": "dark"
+    },
+    {
+      "id": "morning",
+      "name": "Kokedera Morning",
+      "scheme": "light"
+    },
+    {
+      "id": "night",
+      "name": "Kokedera Night",
+      "scheme": "dark"
+    },
+    {
+      "id": "spring",
+      "name": "Kokedera Spring",
+      "scheme": "dark"
+    },
+    {
+      "id": "summer",
+      "name": "Kokedera Summer",
+      "scheme": "dark"
+    },
+    {
+      "id": "autumn",
+      "name": "Kokedera Autumn",
+      "scheme": "dark"
+    },
+    {
+      "id": "winter",
+      "name": "Kokedera Winter",
+      "scheme": "light"
+    },
+    {
+      "id": "rain",
+      "name": "Kokedera Rain",
+      "scheme": "dark"
+    },
+    {
+      "id": "mist",
+      "name": "Kokedera Mist",
+      "scheme": "dark"
+    }
+  ],
+  "files": {
+    ".gitattributes": "84b7ac022a60b33354a2682cef1c45b38cda73c82663ebf1f5a36244181f41f9",
+    ".github/workflows/validate.yml": "6fcdb75de637071c43b111b2413eea3731f02d3183927163699f4e7767e338e2",
+    ".gitignore": "fdbd55a593609bb23a4fb57f77672a966635e6698774fadb28a494c056763be1",
+    "LICENSE": "6c6c6451b00ce86b2cc473120eded4aa07992aea873700f96397b4d4c9b7dc04",
+    "README.md": "4f6acf0a1820ee131eab16dbbccfd2fd31111394b214b7bb5bd84098ad4ddd10",
+    "assets/golem.svg": "7391b078b497a49677da33dabf5ff20dc5eea735a50f88aa5bbd18db6aaf8e37",
+    "assets/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "assets/palettes.svg": "119c42b7edb1be462eea4493d2c9c1d6895f10f71b677a1b739cea945de636b9",
+    "colors/kokedera-autumn.lua": "3bbfb6ade3df3a410b2fc1b2618adc6c159997c08af0a3235f5376ec22a084ed",
+    "colors/kokedera-dusk.lua": "12045f8f8223f7a5e580a4ca842c4bd5c75e42c3c1fd5f666216f440538268c2",
+    "colors/kokedera-mist.lua": "218254c75db6f155893e21a4673a1c0452e126055663159e997370f1d81f9849",
+    "colors/kokedera-morning.lua": "d84afbb955fad87ea76b264cd3b1c9446c7051f98c754820590f6b5d401e7e8f",
+    "colors/kokedera-night.lua": "78f0ba86045af4d44068d01170125047fa063050c52ec1de8210e3a319d8d8fc",
+    "colors/kokedera-rain.lua": "c0c7bde1a00fd3d5399be6d671247255c86fdaae28216d7e4bbc0d563ab78c7b",
+    "colors/kokedera-spring.lua": "dd8fd92dec8c8b989fe5dc0ca887824cbc2264b8cd3fcbb629cc74ebccf37e6d",
+    "colors/kokedera-summer.lua": "495c2a26107439818ed3728d7bc83651da6353839bd8dae73144e75cacc9bf06",
+    "colors/kokedera-winter.lua": "49057d21a6d9230cb82349e87541cd29e121f5c8672983585e384dbcc7a294c5",
+    "colors/kokedera.lua": "52a21ec4e97ae72e34b1ae7721680693bec0296cfa3b5f93f29b71c007fa65e9",
+    "lua/kokedera/init.lua": "0d9d5ece673d1cc70ea155a4b9897f3a1fbc6dd95894b25b90d2cc5f914cc735",
+    "lua/kokedera/palettes/autumn.lua": "b0c0b41f17ff475106d18134d3148bfed6b270f2e0673494405c0b99a745ab71",
+    "lua/kokedera/palettes/dusk.lua": "44c4f84a3674254e548239af8c2bf5df21b6579aa70455853b830c6bbe0fa662",
+    "lua/kokedera/palettes/mist.lua": "82b1cbb02955631ab80d86cfc7e53ffa17d89cf5de56e7218059845e651fc3ef",
+    "lua/kokedera/palettes/morning.lua": "39bb0b67100594b83a7cb181bc372779db40d114b870ba20737a12eda92c0b16",
+    "lua/kokedera/palettes/night.lua": "86bdda4aec6059aac1b2e9d239e76666537ee14eefb23065c89c96b0e1472b69",
+    "lua/kokedera/palettes/rain.lua": "08662bede7eba37f5d1ffc8b2adba41fc911a8fbae0c9a3e4c1bfd8d0c474993",
+    "lua/kokedera/palettes/spring.lua": "f93b072de22faf1bb83acd15c28f0e4053da16c644bfb81b3c033d0e1cf76ee2",
+    "lua/kokedera/palettes/summer.lua": "95c8c25d61fb352609aa6d2e5f893e4a9b77e6f57a05ca2273337fee500fc716",
+    "lua/kokedera/palettes/winter.lua": "45e0b425522eb02f015d28d3099e8f830edc53136677508c30a8018d948212b2",
+    "lua/lualine/themes/kokedera.lua": "ad8e1db405cd3d8d65d3bd3adbd5f1e648a7383c95203ce35a7dab290af39831",
+    "scripts/verify.py": "ae7957672341d412d2c1c31fb5d2c0299b85148ec5d9747c2cc5c9176e6ad2cc"
+  }
+}

@@ -1,0 +1,129 @@
+// Kokedera Mist
+themes {
+    kokedera-mist {
+        text_unselected {
+            base 170 182 158
+            background 25 30 25
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        text_selected {
+            base 170 182 158
+            background 65 75 64
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        ribbon_selected {
+            base 170 182 158
+            background 65 75 64
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        ribbon_unselected {
+            base 170 182 158
+            background 25 30 25
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        table_title {
+            base 170 182 158
+            background 25 30 25
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        table_cell_selected {
+            base 170 182 158
+            background 65 75 64
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        table_cell_unselected {
+            base 170 182 158
+            background 25 30 25
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        list_selected {
+            base 170 182 158
+            background 65 75 64
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        list_unselected {
+            base 170 182 158
+            background 25 30 25
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        frame_selected {
+            base 138 179 131
+            background 65 75 64
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        frame_unselected {
+            base 73 81 70
+            background 25 30 25
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        frame_highlight {
+            base 181 169 126
+            background 25 30 25
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        exit_code_success {
+            base 138 179 131
+            background 25 30 25
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        exit_code_error {
+            base 168 115 115
+            background 25 30 25
+            emphasis_0 181 169 126
+            emphasis_1 123 152 168
+            emphasis_2 138 179 131
+            emphasis_3 151 135 171
+        }
+        multiplayer_user_colors {
+            player_1 138 179 131
+            player_2 181 169 126
+            player_3 123 152 168
+            player_4 151 135 171
+            player_5 168 115 115
+            player_6 133 171 111
+            player_7 107 143 166
+            player_8 176 142 106
+            player_9 168 180 155
+            player_10 168 147 90
+        }
+    }
+}

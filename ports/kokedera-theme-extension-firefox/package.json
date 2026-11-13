@@ -1,0 +1,12 @@
+{
+  "name": "kokedera-firefox-themes",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "node scripts/web-ext.mjs lint",
+    "build": "node scripts/web-ext.mjs build"
+  },
+  "devDependencies": {
+    "web-ext": "^8.9.0"
+  }
+}

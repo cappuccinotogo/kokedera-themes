@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "repository": "cappuccinotogo/kokedera-themes",
+  "path": "ports/kokedera-theme-extension-obsidian",
+  "generator": "https://github.com/cappuccinotogo/kokedera-themes",
+  "generatorHash": "40c1af138a85d868841fe4f5fb6af4416667fe70a66abce5529f6eb247201228",
+  "paletteHash": "aaf788a9d397c9b4b5c60d540834143a7e97d299b28ce8adddf88f90ddce6d8b",
+  "variants": [
+    {
+      "id": "dusk",
+      "name": "Kokedera Dusk",
+      "scheme": "dark"
+    },
+    {
+      "id": "morning",
+      "name": "Kokedera Morning",
+      "scheme": "light"
+    },
+    {
+      "id": "night",
+      "name": "Kokedera Night",
+      "scheme": "dark"
+    },
+    {
+      "id": "spring",
+      "name": "Kokedera Spring",
+      "scheme": "dark"
+    },
+    {
+      "id": "summer",
+      "name": "Kokedera Summer",
+      "scheme": "dark"
+    },
+    {
+      "id": "autumn",
+      "name": "Kokedera Autumn",
+      "scheme": "dark"
+    },
+    {
+      "id": "winter",
+      "name": "Kokedera Winter",
+      "scheme": "light"
+    },
+    {
+      "id": "rain",
+      "name": "Kokedera Rain",
+      "scheme": "dark"
+    },
+    {
+      "id": "mist",
+      "name": "Kokedera Mist",
+      "scheme": "dark"
+    }
+  ],
+  "files": {
+    ".gitattributes": "84b7ac022a60b33354a2682cef1c45b38cda73c82663ebf1f5a36244181f41f9",
+    ".github/workflows/validate.yml": "6fcdb75de637071c43b111b2413eea3731f02d3183927163699f4e7767e338e2",
+    ".gitignore": "fdbd55a593609bb23a4fb57f77672a966635e6698774fadb28a494c056763be1",
+    "LICENSE": "6c6c6451b00ce86b2cc473120eded4aa07992aea873700f96397b4d4c9b7dc04",
+    "README.md": "c1006876010eabe4fcb7f9c91cfc0f232a9b01ee73821b9973e868294539f9b8",
+    "assets/golem.svg": "7391b078b497a49677da33dabf5ff20dc5eea735a50f88aa5bbd18db6aaf8e37",
+    "assets/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "assets/palettes.svg": "119c42b7edb1be462eea4493d2c9c1d6895f10f71b677a1b739cea945de636b9",
+    "manifest.json": "5fa889cd65ca8719a6b20248d4f9ddb7df61cc044a4cbc21edaddccbdbd448c2",
+    "scripts/verify.py": "ae7957672341d412d2c1c31fb5d2c0299b85148ec5d9747c2cc5c9176e6ad2cc",
+    "snippets/kokedera-autumn.css": "aebfd2a434bec1f0d677530aa68ef6f60b103bf8ee2c832c47e1317960979c30",
+    "snippets/kokedera-dusk.css": "e13faa8ecd8cc493cb86afcb8dd164eb4f1e6c6c20a4473fc0b61a8c83abe6f3",
+    "snippets/kokedera-mist.css": "8f145e027352d7e2ed0dc2d8672e9a548d861d7de3d4de31e6683d1a46a0bc56",
+    "snippets/kokedera-morning.css": "a674e4356b5ab7566d84ddf440f8c2ec4ea166b98ecc8f4f5271cf0e77537b56",
+    "snippets/kokedera-night.css": "4d727d9c3ad56e94cd8d7ad71e2952caadfe0dd8232c132d47b11f70293911ef",
+    "snippets/kokedera-rain.css": "735d059ea5383a760e04dc2d954cceca6f2d882482d8a082ff9aef8307eeff91",
+    "snippets/kokedera-spring.css": "7e88e2e37e5a5a8ac4dae0f97d98b9102b83511781b7106968acb1b3026c01cd",
+    "snippets/kokedera-summer.css": "f0eb561d6d785cbd1a20ac2b8cbe7456061393c7052919c027a500dd9addaea7",
+    "snippets/kokedera-winter.css": "bdfe0d366cf9109ab497dbe7d0527c3e154d04274de410435b6500df1fa13d4b",
+    "theme.css": "1af5a3971036e456b9d388c182b4693a259714a8ab5ca2f7e7680852ed69fc60",
+    "versions.json": "bc101595f2f2e23349fdd31b1d99d6696e3425c03c1e34ed5a072dc9a8aa3dc1"
+  }
+}

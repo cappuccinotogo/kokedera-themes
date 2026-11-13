@@ -1,0 +1,2 @@
+# Kokedera Night — generated from the shared Kokedera palette
+$env:FZF_DEFAULT_OPTS = "$env:FZF_DEFAULT_OPTS --color=fg:#e5eedc,bg:#0a0e09,hl:#98d787,fg+:#e5eedc,bg+:#1b261a,hl+:#7bf67b,info:#acc0a0,prompt:#5abf5a,pointer:#e7ddb0,marker:#b296d3,spinner:#6cb4a4,header:#a7d38a,border:#20291d,separator:#192217,scrollbar:#7ea26c,label:#acc0a0,query:#e5eedc,preview-fg:#e5eedc,preview-bg:#0a0e09,preview-border:#20291d"

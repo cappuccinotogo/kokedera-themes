@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "repository": "cappuccinotogo/kokedera-themes",
+  "path": "ports/kokedera-theme-extension-jupyterlab",
+  "generator": "https://github.com/cappuccinotogo/kokedera-themes",
+  "generatorHash": "40c1af138a85d868841fe4f5fb6af4416667fe70a66abce5529f6eb247201228",
+  "paletteHash": "aaf788a9d397c9b4b5c60d540834143a7e97d299b28ce8adddf88f90ddce6d8b",
+  "variants": [
+    {
+      "id": "dusk",
+      "name": "Kokedera Dusk",
+      "scheme": "dark"
+    },
+    {
+      "id": "morning",
+      "name": "Kokedera Morning",
+      "scheme": "light"
+    },
+    {
+      "id": "night",
+      "name": "Kokedera Night",
+      "scheme": "dark"
+    },
+    {
+      "id": "spring",
+      "name": "Kokedera Spring",
+      "scheme": "dark"
+    },
+    {
+      "id": "summer",
+      "name": "Kokedera Summer",
+      "scheme": "dark"
+    },
+    {
+      "id": "autumn",
+      "name": "Kokedera Autumn",
+      "scheme": "dark"
+    },
+    {
+      "id": "winter",
+      "name": "Kokedera Winter",
+      "scheme": "light"
+    },
+    {
+      "id": "rain",
+      "name": "Kokedera Rain",
+      "scheme": "dark"
+    },
+    {
+      "id": "mist",
+      "name": "Kokedera Mist",
+      "scheme": "dark"
+    }
+  ],
+  "files": {
+    ".gitattributes": "84b7ac022a60b33354a2682cef1c45b38cda73c82663ebf1f5a36244181f41f9",
+    ".github/workflows/validate.yml": "7c0a17a6283fbf92e9237b82a9d188c466f6f63ed6b1e05d21f191c342f2f13c",
+    ".gitignore": "72c62669f3c0052780a2e4c93f550bd9790a92b8e891b1e58f3d6d462d1f49dc",
+    "LICENSE": "6c6c6451b00ce86b2cc473120eded4aa07992aea873700f96397b4d4c9b7dc04",
+    "README.md": "b9b1e6d37d508505b12646e929109fdd95b3375f9950fccafb4984a25d31b25c",
+    "assets/golem.svg": "7391b078b497a49677da33dabf5ff20dc5eea735a50f88aa5bbd18db6aaf8e37",
+    "assets/icon.png": "21ab70806f01049c3dacef514a2b536b205508162733a5fbf2028caf7f00761c",
+    "assets/palettes.svg": "119c42b7edb1be462eea4493d2c9c1d6895f10f71b677a1b739cea945de636b9",
+    "install.json": "25faa8cda66aed5d0d0c6ac5d0d01b001dc6551fafc924c873e1bcea1937cf0c",
+    "kokedera_jupyterlab/__init__.py": "e535c413f98d842e3ea08aea68a150d61e47ce5e4cbf88df28b24c67712ef0ae",
+    "package.json": "38abc084ac1d69dd1f805a088e29c71af0ac1f30f2e9c0a472a4fe20fdf7f1fe",
+    "pyproject.toml": "a764f36298452a127a8f719b0e7a04288db2cbc81a2250e9500d6ddda526d598",
+    "scripts/verify.py": "ae7957672341d412d2c1c31fb5d2c0299b85148ec5d9747c2cc5c9176e6ad2cc",
+    "src/index.ts": "da4f51e3b5d6c4062a4d8ce77bad900322e412741446ae8a616a0514f2a28042",
+    "style/index.css": "f7ceb9c335ce5e87d845e912ebe6da72acd353c1f5bc50205866766025a04d73",
+    "tests/themes.test.mjs": "03225c8bec5a2f35f71ad64c61fd3ec651de0cbf389d855d93ca20e7a58af7b4",
+    "tsconfig.json": "b630334db5deade593384080f00a380030e483b914a12b3a13389a3d6c225c0b"
+  }
+}

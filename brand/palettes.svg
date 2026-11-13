@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1 -1 962 638" width="962" height="638" role="img" aria-label="The nine Kokedera palettes: Dusk, Morning, Night, Spring, Summer, Autumn, Winter, Rain, Mist">
+  <g transform="translate(0 0)">
+    <rect width="304" height="196" rx="14" fill="#121a11" stroke="#3a4a35"/>
+    <text x="20" y="38" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="600" fill="#c8d8b8">Dusk</text>
+    <text x="284" y="37" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" letter-spacing="1" fill="#94aa87">DARK</text>
+    <rect x="16" y="54" width="272" height="84" rx="8" fill="#1a2619"/>
+    <text x="30" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#5a6b50" font-style="italic">// dusk at the temple</tspan></text>
+    <text x="30" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#4ca64c">const </tspan><tspan fill="#a3be8c">path</tspan><tspan fill="#7a9070"> = </tspan><tspan fill="#d4c88e">&quot;moss&quot;</tspan><tspan fill="#7a9070">;</tspan></text>
+    <text x="30" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#4ca64c">new </tspan><tspan fill="#3d9970">Lantern</tspan><tspan fill="#7a9070">(</tspan><tspan fill="#c49a5c">9</tspan><tspan fill="#7a9070">).</tspan><tspan fill="#8fbf6f">light</tspan><tspan fill="#7a9070">()</tspan></text>
+    <circle cx="29" cy="166" r="11" fill="#4ca64c"/>
+    <circle cx="64" cy="166" r="11" fill="#8fbf6f"/>
+    <circle cx="99" cy="166" r="11" fill="#3d9970"/>
+    <circle cx="134" cy="166" r="11" fill="#d4c88e"/>
+    <circle cx="169" cy="166" r="11" fill="#c49a5c"/>
+    <circle cx="204" cy="166" r="11" fill="#c45a5a"/>
+    <circle cx="239" cy="166" r="11" fill="#9a7abf"/>
+    <circle cx="274" cy="166" r="11" fill="#5a9e8f"/>
+  </g>
+  <g transform="translate(328 0)">
+    <rect width="304" height="196" rx="14" fill="#f4f2e6" stroke="#d5d2c0"/>
+    <text x="20" y="38" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="600" fill="#333f2c">Morning</text>
+    <text x="284" y="37" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" letter-spacing="1" fill="#56694a">LIGHT</text>
+    <rect x="16" y="54" width="272" height="84" rx="8" fill="#ece9d8"/>
+    <text x="30" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#828e6e" font-style="italic">// morning at the temple</tspan></text>
+    <text x="30" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#2e7d32">const </tspan><tspan fill="#4a6b2e">path</tspan><tspan fill="#6b7a5e"> = </tspan><tspan fill="#75641a">&quot;moss&quot;</tspan><tspan fill="#6b7a5e">;</tspan></text>
+    <text x="30" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#2e7d32">new </tspan><tspan fill="#1d7a5c">Lantern</tspan><tspan fill="#6b7a5e">(</tspan><tspan fill="#99541d">9</tspan><tspan fill="#6b7a5e">).</tspan><tspan fill="#487612">light</tspan><tspan fill="#6b7a5e">()</tspan></text>
+    <circle cx="29" cy="166" r="11" fill="#2e7d32"/>
+    <circle cx="64" cy="166" r="11" fill="#487612"/>
+    <circle cx="99" cy="166" r="11" fill="#1d7a5c"/>
+    <circle cx="134" cy="166" r="11" fill="#75641a"/>
+    <circle cx="169" cy="166" r="11" fill="#99541d"/>
+    <circle cx="204" cy="166" r="11" fill="#b03a3a"/>
+    <circle cx="239" cy="166" r="11" fill="#7a4fa8"/>
+    <circle cx="274" cy="166" r="11" fill="#3d7a6c"/>
+  </g>
+  <g transform="translate(656 0)">
+    <rect width="304" height="196" rx="14" fill="#0a0e09" stroke="#20291d"/>
+    <text x="20" y="38" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="600" fill="#e5eedc">Night</text>
+    <text x="284" y="37" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" letter-spacing="1" fill="#acc0a0">DARK</text>
+    <rect x="16" y="54" width="272" height="84" rx="8" fill="#0e150e"/>
+    <text x="30" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#69815b" font-style="italic">// night at the temple</tspan></text>
+    <text x="30" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#5abf5a">const </tspan><tspan fill="#bcd3a9">path</tspan><tspan fill="#8fa485"> = </tspan><tspan fill="#e7ddb0">&quot;moss&quot;</tspan><tspan fill="#8fa485">;</tspan></text>
+    <text x="30" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#5abf5a">new </tspan><tspan fill="#3ebc84">Lantern</tspan><tspan fill="#8fa485">(</tspan><tspan fill="#d7b075">9</tspan><tspan fill="#8fa485">).</tspan><tspan fill="#a7d38a">light</tspan><tspan fill="#8fa485">()</tspan></text>
+    <circle cx="29" cy="166" r="11" fill="#5abf5a"/>
+    <circle cx="64" cy="166" r="11" fill="#a7d38a"/>
+    <circle cx="99" cy="166" r="11" fill="#3ebc84"/>
+    <circle cx="134" cy="166" r="11" fill="#e7ddb0"/>
+    <circle cx="169" cy="166" r="11" fill="#d7b075"/>
+    <circle cx="204" cy="166" r="11" fill="#d77373"/>
+    <circle cx="239" cy="166" r="11" fill="#b296d3"/>
+    <circle cx="274" cy="166" r="11" fill="#6cb4a4"/>
+  </g>
+  <g transform="translate(0 220)">
+    <rect width="304" height="196" rx="14" fill="#1b2317" stroke="#546547"/>
+    <text x="20" y="38" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="600" fill="#e7ead6">Spring</text>
+    <text x="284" y="37" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" letter-spacing="1" fill="#b2bb9a">DARK</text>
+    <rect x="16" y="54" width="272" height="84" rx="8" fill="#263421"/>
+    <text x="30" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#707a57" font-style="italic">// spring at the temple</tspan></text>
+    <text x="30" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#7ac93e">const </tspan><tspan fill="#bad892">path</tspan><tspan fill="#94a07f"> = </tspan><tspan fill="#d4c88e">&quot;moss&quot;</tspan><tspan fill="#94a07f">;</tspan></text>
+    <text x="30" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#7ac93e">new </tspan><tspan fill="#d98a9e">Lantern</tspan><tspan fill="#94a07f">(</tspan><tspan fill="#c49a5c">9</tspan><tspan fill="#94a07f">).</tspan><tspan fill="#a8d072">light</tspan><tspan fill="#94a07f">()</tspan></text>
+    <circle cx="29" cy="166" r="11" fill="#7ac93e"/>
+    <circle cx="64" cy="166" r="11" fill="#a8d072"/>
+    <circle cx="99" cy="166" r="11" fill="#d98a9e"/>
+    <circle cx="134" cy="166" r="11" fill="#d4c88e"/>
+    <circle cx="169" cy="166" r="11" fill="#c49a5c"/>
+    <circle cx="204" cy="166" r="11" fill="#c45a5a"/>
+    <circle cx="239" cy="166" r="11" fill="#9a7abf"/>
+    <circle cx="274" cy="166" r="11" fill="#c98ba0"/>
+  </g>
+  <g transform="translate(328 220)">
+    <rect width="304" height="196" rx="14" fill="#0c1a0b" stroke="#2c4725"/>
+    <text x="20" y="38" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="600" fill="#d2e7bd">Summer</text>
+    <text x="284" y="37" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" letter-spacing="1" fill="#99ba86">DARK</text>
+    <rect x="16" y="54" width="272" height="84" rx="8" fill="#112510"/>
+    <text x="30" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#5c794b" font-style="italic">// summer at the temple</tspan></text>
+    <text x="30" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#2ec75a">const </tspan><tspan fill="#9fd67f">path</tspan><tspan fill="#7d9f6e"> = </tspan><tspan fill="#e0c565">&quot;moss&quot;</tspan><tspan fill="#7d9f6e">;</tspan></text>
+    <text x="30" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#2ec75a">new </tspan><tspan fill="#1fb87a">Lantern</tspan><tspan fill="#7d9f6e">(</tspan><tspan fill="#d1a44e">9</tspan><tspan fill="#7d9f6e">).</tspan><tspan fill="#7fd05f">light</tspan><tspan fill="#7d9f6e">()</tspan></text>
+    <circle cx="29" cy="166" r="11" fill="#2ec75a"/>
+    <circle cx="64" cy="166" r="11" fill="#7fd05f"/>
+    <circle cx="99" cy="166" r="11" fill="#1fb87a"/>
+    <circle cx="134" cy="166" r="11" fill="#e0c565"/>
+    <circle cx="169" cy="166" r="11" fill="#d1a44e"/>
+    <circle cx="204" cy="166" r="11" fill="#c45a5a"/>
+    <circle cx="239" cy="166" r="11" fill="#9a7abf"/>
+    <circle cx="274" cy="166" r="11" fill="#3dbf9f"/>
+  </g>
+  <g transform="translate(656 220)">
+    <rect width="304" height="196" rx="14" fill="#1a1511" stroke="#4a3e35"/>
+    <text x="20" y="38" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="600" fill="#d8c1b8">Autumn</text>
+    <text x="284" y="37" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" letter-spacing="1" fill="#aa9287">DARK</text>
+    <rect x="16" y="54" width="272" height="84" rx="8" fill="#261e19"/>
+    <text x="30" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#7d6a56" font-style="italic">// autumn at the temple</tspan></text>
+    <text x="30" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#b57e55">const </tspan><tspan fill="#be9b8c">path</tspan><tspan fill="#907b70"> = </tspan><tspan fill="#d4c88e">&quot;moss&quot;</tspan><tspan fill="#907b70">;</tspan></text>
+    <text x="30" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#b57e55">new </tspan><tspan fill="#c76c48">Lantern</tspan><tspan fill="#907b70">(</tspan><tspan fill="#cf9c4a">9</tspan><tspan fill="#907b70">).</tspan><tspan fill="#bf886f">light</tspan><tspan fill="#907b70">()</tspan></text>
+    <circle cx="29" cy="166" r="11" fill="#b57e55"/>
+    <circle cx="64" cy="166" r="11" fill="#bf886f"/>
+    <circle cx="99" cy="166" r="11" fill="#c76c48"/>
+    <circle cx="134" cy="166" r="11" fill="#d4c88e"/>
+    <circle cx="169" cy="166" r="11" fill="#cf9c4a"/>
+    <circle cx="204" cy="166" r="11" fill="#c45a5a"/>
+    <circle cx="239" cy="166" r="11" fill="#9a7abf"/>
+    <circle cx="274" cy="166" r="11" fill="#c47a5e"/>
+  </g>
+  <g transform="translate(0 440)">
+    <rect width="304" height="196" rx="14" fill="#eef0ee" stroke="#c8cec8"/>
+    <text x="20" y="38" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="600" fill="#323c36">Winter</text>
+    <text x="284" y="37" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" letter-spacing="1" fill="#536152">LIGHT</text>
+    <rect x="16" y="54" width="272" height="84" rx="8" fill="#e2e6e2"/>
+    <text x="30" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#7d8a80" font-style="italic">// winter at the temple</tspan></text>
+    <text x="30" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#25708f">const </tspan><tspan fill="#4a6b5c">path</tspan><tspan fill="#5e6b62"> = </tspan><tspan fill="#6b5c2a">&quot;moss&quot;</tspan><tspan fill="#5e6b62">;</tspan></text>
+    <text x="30" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#25708f">new </tspan><tspan fill="#1f7d6b">Lantern</tspan><tspan fill="#5e6b62">(</tspan><tspan fill="#8a552e">9</tspan><tspan fill="#5e6b62">).</tspan><tspan fill="#2f7846">light</tspan><tspan fill="#5e6b62">()</tspan></text>
+    <circle cx="29" cy="166" r="11" fill="#25708f"/>
+    <circle cx="64" cy="166" r="11" fill="#2f7846"/>
+    <circle cx="99" cy="166" r="11" fill="#1f7d6b"/>
+    <circle cx="134" cy="166" r="11" fill="#6b5c2a"/>
+    <circle cx="169" cy="166" r="11" fill="#8a552e"/>
+    <circle cx="204" cy="166" r="11" fill="#a84848"/>
+    <circle cx="239" cy="166" r="11" fill="#6b5a9a"/>
+    <circle cx="274" cy="166" r="11" fill="#357d70"/>
+  </g>
+  <g transform="translate(328 440)">
+    <rect width="304" height="196" rx="14" fill="#111a19" stroke="#354a45"/>
+    <text x="20" y="38" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="600" fill="#b8d8c8">Rain</text>
+    <text x="284" y="37" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" letter-spacing="1" fill="#87aa9d">DARK</text>
+    <rect x="16" y="54" width="272" height="84" rx="8" fill="#192625"/>
+    <text x="30" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#506b61" font-style="italic">// rain at the temple</tspan></text>
+    <text x="30" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#4ca6a6">const </tspan><tspan fill="#8cbea7">path</tspan><tspan fill="#709086"> = </tspan><tspan fill="#d4c88e">&quot;moss&quot;</tspan><tspan fill="#709086">;</tspan></text>
+    <text x="30" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#4ca6a6">new </tspan><tspan fill="#3d84ad">Lantern</tspan><tspan fill="#709086">(</tspan><tspan fill="#c49a5c">9</tspan><tspan fill="#709086">).</tspan><tspan fill="#6fbf9f">light</tspan><tspan fill="#709086">()</tspan></text>
+    <circle cx="29" cy="166" r="11" fill="#4ca6a6"/>
+    <circle cx="64" cy="166" r="11" fill="#6fbf9f"/>
+    <circle cx="99" cy="166" r="11" fill="#3d84ad"/>
+    <circle cx="134" cy="166" r="11" fill="#d4c88e"/>
+    <circle cx="169" cy="166" r="11" fill="#c49a5c"/>
+    <circle cx="204" cy="166" r="11" fill="#c45a5a"/>
+    <circle cx="239" cy="166" r="11" fill="#9a7abf"/>
+    <circle cx="274" cy="166" r="11" fill="#5a8b9e"/>
+  </g>
+  <g transform="translate(656 440)">
+    <rect width="304" height="196" rx="14" fill="#191e19" stroke="#495146"/>
+    <text x="20" y="38" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="600" fill="#aab69e">Mist</text>
+    <text x="284" y="37" text-anchor="end" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" letter-spacing="1" fill="#909c89">DARK</text>
+    <rect x="16" y="54" width="272" height="84" rx="8" fill="#242a23"/>
+    <text x="30" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#737d6c" font-style="italic">// mist at the temple</tspan></text>
+    <text x="30" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#6ba263">const </tspan><tspan fill="#a8b49b">path</tspan><tspan fill="#838e7f"> = </tspan><tspan fill="#b5a97e">&quot;moss&quot;</tspan><tspan fill="#838e7f">;</tspan></text>
+    <text x="30" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#6ba263">new </tspan><tspan fill="#6b8fa6">Lantern</tspan><tspan fill="#838e7f">(</tspan><tspan fill="#b08e6a">9</tspan><tspan fill="#838e7f">).</tspan><tspan fill="#85ab6f">light</tspan><tspan fill="#838e7f">()</tspan></text>
+    <circle cx="29" cy="166" r="11" fill="#6ba263"/>
+    <circle cx="64" cy="166" r="11" fill="#85ab6f"/>
+    <circle cx="99" cy="166" r="11" fill="#6b8fa6"/>
+    <circle cx="134" cy="166" r="11" fill="#b5a97e"/>
+    <circle cx="169" cy="166" r="11" fill="#b08e6a"/>
+    <circle cx="204" cy="166" r="11" fill="#a87373"/>
+    <circle cx="239" cy="166" r="11" fill="#9787ab"/>
+    <circle cx="274" cy="166" r="11" fill="#7b98a8"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+id = "kokedera-icons"
+name = "Kokedera Icons"
+version = "2.0.1"
+schema_version = 1
+authors = ["Florian Mühlhans"]
+description = "File and folder icons inspired by forest greens, weathered stone, and warm lantern light — nine sets matching Kokedera Theme."
+repository = "https://github.com/cappuccinotogo/kokedera-themes"

@@ -1,0 +1,32 @@
+# Kokedera Dusk — generated from the shared Kokedera palette
+"$schema" = "https://starship.rs/config-schema.json"
+palette = "kokedera_dusk"
+format = "$directory$git_branch$git_status$cmd_duration$line_break$character"
+
+[palettes.kokedera_dusk]
+moss = "#4ca64c"
+fern = "#8fbf6f"
+lantern = "#d4c88e"
+stone = "#94aa87"
+error = "#c45a5a"
+stream = "#5a9e8f"
+special = "#9a7abf"
+
+[directory]
+style = "bold moss"
+read_only_style = "error"
+
+[git_branch]
+style = "fern"
+symbol = "git "
+
+[git_status]
+style = "special"
+
+[cmd_duration]
+style = "lantern"
+
+[character]
+success_symbol = "[>](bold moss)"
+error_symbol = "[>](bold error)"
+vimcmd_symbol = "[<](bold stream)"

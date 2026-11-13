@@ -1,0 +1,2 @@
+# Kokedera Morning — generated from the shared Kokedera palette
+set -gx FZF_DEFAULT_OPTS "$FZF_DEFAULT_OPTS --color=fg:#333f2c,bg:#f4f2e6,hl:#3b8a3c,fg+:#333f2c,bg+:#d6d3bd,hl+:#27ae37,info:#56694a,prompt:#2e7d32,pointer:#75641a,marker:#7a4fa8,spinner:#3d7a6c,header:#487612,border:#d5d2c0,separator:#dedbc9,scrollbar:#779666,label:#56694a,query:#333f2c,preview-fg:#333f2c,preview-bg:#f4f2e6,preview-border:#d5d2c0"

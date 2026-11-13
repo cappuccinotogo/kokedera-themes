@@ -1,0 +1,35 @@
+<idea-plugin>
+    <id>com.seventhlayer.kokedera.icons</id>
+    <name>Kokedera Icons - Moss Temple Icons</name>
+    <vendor email="office@7thlayer.ventures" url="https://kokedera.style">Florian Mühlhans</vendor>
+
+    <description><![CDATA[
+    <h2>Kokedera Icons</h2>
+    <p>Moss-temple file icon themes — nine sets, one for each Kokedera color theme variant. The icons follow the active theme automatically: switch to Kokedera Autumn and the files turn to maple; under non-Kokedera themes a light or dark default set is chosen. Designed to pair with the
+    <a href="https://plugins.jetbrains.com/plugin/30629-kokedera-moss-temple-theme">Kokedera color theme</a>.
+    Every icon draws from the same palette of moss greens, lantern ambers, and stone grays.</p>
+
+    <ul>
+        <li><b>File &amp; folder icons</b> covering languages, frameworks, configs, DevOps, docs, and media</li>
+        <li><b>Named folder icons</b> (src, lib, tests, components, api, database, docker, and more)</li>
+        <li><b>Hundreds of file name &amp; extension mappings</b> — from <code>.rs</code> to <code>.prisma</code> to <code>kustomization.yaml</code></li>
+    </ul>
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <fileIconProvider
+            implementation="com.seventhlayer.kokedera.icons.KokederaFileIconProvider"
+            order="first"/>
+        <iconProvider
+            implementation="com.seventhlayer.kokedera.icons.KokederaDirectoryIconProvider"
+            order="first"/>
+    </extensions>
+
+    <applicationListeners>
+        <listener
+            class="com.seventhlayer.kokedera.icons.KokederaStartupActivity"
+            topic="com.intellij.ide.AppLifecycleListener"/>
+    </applicationListeners>
+</idea-plugin>

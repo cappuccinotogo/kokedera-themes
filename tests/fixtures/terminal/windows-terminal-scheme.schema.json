@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$comment": "Unchanged $defs.SchemeList.items plus its Color dependency extracted from https://raw.githubusercontent.com/microsoft/terminal/86b31d0a3bf273c73b9e2a48c95b9825a7296189/doc/cascadia/profiles.schema.json. Full upstream source SHA256: 824d1adf895ab269ef1913da81b41e664c5c67275fa3c224e13bad1c13f2a3f6.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "name": {
+      "description": "Name of the color scheme.",
+      "minLength": 1,
+      "type": "string"
+    },
+    "background": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the background color of the color scheme."
+    },
+    "black": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI black."
+    },
+    "blue": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI blue."
+    },
+    "brightBlack": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI bright black."
+    },
+    "brightBlue": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI bright blue."
+    },
+    "brightCyan": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI bright cyan."
+    },
+    "brightGreen": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI bright green."
+    },
+    "brightPurple": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI bright purple."
+    },
+    "brightRed": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI bright red."
+    },
+    "brightWhite": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI bright white."
+    },
+    "brightYellow": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI bright yellow."
+    },
+    "cursorColor": {
+      "$ref": "#/$defs/Color",
+      "default": "#FFFFFF",
+      "description": "Sets the cursor color of the color scheme."
+    },
+    "cyan": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI cyan."
+    },
+    "foreground": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the foreground color of the color scheme."
+    },
+    "green": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI green."
+    },
+    "purple": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI purple."
+    },
+    "red": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI red."
+    },
+    "selectionBackground": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the selection background color of the color scheme."
+    },
+    "white": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI white."
+    },
+    "yellow": {
+      "$ref": "#/$defs/Color",
+      "description": "Sets the color used as ANSI yellow."
+    }
+  },
+  "$defs": {
+    "Color": {
+      "default": "#",
+      "pattern": "^#[A-Fa-f0-9]{3}(?:[A-Fa-f0-9]{3})?$",
+      "type": "string",
+      "format": "color"
+    }
+  }
+}

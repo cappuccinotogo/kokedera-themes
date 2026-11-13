@@ -1,0 +1,62 @@
+<idea-plugin>
+    <id>com.seventhlayer.kokedera</id>
+    <name>Kokedera - Moss Temple Theme</name>
+    <vendor email="office@7thlayer.ventures" url="https://kokedera.style">Florian Mühlhans</vendor>
+
+    <description><![CDATA[
+    <h2>Kokedera - Moss Temple Theme</h2>
+    <p>Bring the quiet of a moss-covered temple into your editor. Kokedera offers nine
+    hand-tuned color themes inspired by forest greens, weathered stone, and warm
+    lantern light — seven dark palettes and two light palettes.</p>
+
+    <h3>Nine views of one place</h3>
+    <p>Kokedera is a quiet temple among the roots of the World Tree, where moss covers
+    the stone paths and a small golem tends the lanterns. Choose a different hour,
+    season, or weather in the same place.</p>
+
+    <h3>Palettes</h3>
+    <ul>
+        <li><b>Morning</b> — Light: warm paper grounds, greens that read like ink</li>
+        <li><b>Dusk</b> — Dark: deep forest greens, weathered stone and soft lantern light</li>
+        <li><b>Night</b> — Dark: near-black grounds, brighter greens and warm lantern contrast</li>
+        <li><b>Spring</b> — Dark: fresh greens and cherry blossom</li>
+        <li><b>Summer</b> — Dark: dense, saturated greens and a teal stream</li>
+        <li><b>Autumn</b> — Dark: rust, amber and ember over dark earth</li>
+        <li><b>Winter</b> — Light: cool pale grounds, steel blue and a quiet red</li>
+        <li><b>Rain</b> — Dark: wet teal, blue-green shadows and reflected lantern warmth</li>
+        <li><b>Mist</b> — Dark: soft, desaturated greens and blue-grey distance</li>
+    </ul>
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="com.seventhlayer.kokedera.morning"
+                       path="/themes/kokedera-morning.theme.json"/>
+        <bundledColorScheme id="Kokedera Morning" path="/themes/KokederaMorning"/>
+        <themeProvider id="com.seventhlayer.kokedera.dusk"
+                       path="/themes/kokedera-dusk.theme.json"/>
+        <bundledColorScheme id="Kokedera Dusk" path="/themes/KokederaDusk"/>
+        <themeProvider id="com.seventhlayer.kokedera.night"
+                       path="/themes/kokedera-night.theme.json"/>
+        <bundledColorScheme id="Kokedera Night" path="/themes/KokederaNight"/>
+        <themeProvider id="com.seventhlayer.kokedera.spring"
+                       path="/themes/kokedera-spring.theme.json"/>
+        <bundledColorScheme id="Kokedera Spring" path="/themes/KokederaSpring"/>
+        <themeProvider id="com.seventhlayer.kokedera.summer"
+                       path="/themes/kokedera-summer.theme.json"/>
+        <bundledColorScheme id="Kokedera Summer" path="/themes/KokederaSummer"/>
+        <themeProvider id="com.seventhlayer.kokedera.autumn"
+                       path="/themes/kokedera-autumn.theme.json"/>
+        <bundledColorScheme id="Kokedera Autumn" path="/themes/KokederaAutumn"/>
+        <themeProvider id="com.seventhlayer.kokedera.winter"
+                       path="/themes/kokedera-winter.theme.json"/>
+        <bundledColorScheme id="Kokedera Winter" path="/themes/KokederaWinter"/>
+        <themeProvider id="com.seventhlayer.kokedera.rain"
+                       path="/themes/kokedera-rain.theme.json"/>
+        <bundledColorScheme id="Kokedera Rain" path="/themes/KokederaRain"/>
+        <themeProvider id="com.seventhlayer.kokedera.mist"
+                       path="/themes/kokedera-mist.theme.json"/>
+        <bundledColorScheme id="Kokedera Mist" path="/themes/KokederaMist"/>
+    </extensions>
+</idea-plugin>
